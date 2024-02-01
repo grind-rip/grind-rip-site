@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://grind.rip'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'grind.rip'
 
 theme = 'grind-rip'
