@@ -6,3 +6,9 @@
     {{ .Summary }}
   {{ end }}
 {{ end }}
+
+{{ define "sidebar" }}
+    {{ if .Params.description }}
+    <p>{{ .Params.description }}</p>
+    {{ end }}
+{{ end }}
