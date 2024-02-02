@@ -1,0 +1,24 @@
+{{ with .Site.Params.about }}
+<div>
+    {{ with .logo }}
+    <img class="logo" src="{{ . | relURL }}" alt="Logo">
+    {{ end }}
+    <h1 class="title">{{ .title }}</h1>
+    {{ with .description }}
+    <p class="description">{{ . | markdownify }}</p>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ if gt (len .Site.Params.socials) 0 }}
+<ul class="socials">
+    {{ range .Site.Params.socials }}
+    <li>
+        <a target="_blank" rel="noreferrer" href="{{ .url }}"
+            alt="{{ .name }}" title="{{ .name }}" aria-label="{{ .name }}">
+            <i class="{{ .icon }}" aria-hidden="true"/></i>
+        </a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
