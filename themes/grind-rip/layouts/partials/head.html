@@ -1,5 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/7809bdb22c.js" crossorigin="anonymous"></script>
+
+>
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
