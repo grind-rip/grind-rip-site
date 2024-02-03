@@ -13,13 +13,13 @@
             <main class="main">
                 {{ block "main" . }}{{ end }}
             </main>
-            <section class="sidebar">
+            <section class="aside">
                 <div class="about">
                     {{- partial "about.html" . -}}
                 </div>
                 <hr />
                 <div class="content">
-                    {{- block "sidebar" . }}{{- end }}
+                    {{- block "aside" . }}{{- end }}
                 </div>
             </section>
             <footer class="footer">
