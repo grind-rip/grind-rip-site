@@ -11,8 +11,9 @@ Renders a menu for the given menu ID.
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav>
+  <nav class="nav">
     <ul>
+      <h1 class="logo"><a class="logo-inner" href="{{ site.BaseURL }}">{{ site.Title }}</a></h1>
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </ul>
   </nav>
