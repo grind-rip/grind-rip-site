@@ -1,0 +1,29 @@
+.about {
+    height: 1.5rem;
+}
+
+.about {
+    display: inline;
+    vertical-align: top;
+}
+
+.about::before {
+    content: none;
+}
+
+.aside {
+
+    .socials {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .socials li {
+        display: inline-block;
+    }
+
+    .socials li::marker {
+        content: none;
+    }
+}
+

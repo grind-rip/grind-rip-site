@@ -1,0 +1,33 @@
+@import 'abstracts/_variables.scss';
+
+.logo {
+    display: block;
+    background-color: $bg-alt;
+    color: $fg;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0.25rem;
+}
+
+.logo:before {
+    content: none;
+}
+
+a.logo-inner:link, a.logo-inner:visited {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a.logo-inner:hover, a.logo-inner:active, a.logo-inner.active {
+    color: $red;
+}
+
+.logo:before {
+    content: "[";
+    color: $fg;
+}
+
+.logo:after {
+    content: "] $";
+    color: $fg;
+}

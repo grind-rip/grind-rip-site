@@ -1,0 +1,172 @@
+@import 'abstracts/_variables.scss';
+
+body {
+    font-family: $font-family-monospace;
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0 0;
+}
+
+h1:before { content: "# "; }
+h2:before { content: "## "; }
+h3:before { content: "### "; }
+h4:before { content: "#### "; }
+h5:before { content: "##### "; }
+h6:before { content: "###### "; }
+
+h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before {
+    color: $fg-alt;
+}
+
+h1:first-child {
+    margin-top: 0;
+}
+
+p {
+    margin: 0 0 1.5rem 0;
+}
+
+a:link, a:visited {
+    color: $dark-cyan;
+}
+
+a:hover, a:active, a.active {
+    color: $cyan;
+}
+
+ul {
+    margin: 0 0 1.5rem 0;
+    padding-left: 1.25rem;
+}
+
+ol {
+    margin: 0 0 1.5rem 0;
+    padding-left: 1.75rem;
+}
+
+ul ul, ul ol, ol ul, ol ol {
+    margin: 0;
+}
+
+ul li::marker {
+    content: '∗\00A0';
+    color: $fg-alt;
+}
+
+ol li::marker {
+    color: $fg-alt;
+}
+
+dt {
+    font-weight: bold;
+    margin: 0;
+}
+
+dd {
+    font-style: italic;
+    margin: 0 0 0 1.5rem;
+}
+
+dd+dt {
+    margin-top: 1.5rem;
+}
+
+dl {
+    margin: 0 0 1.5rem 0;
+}
+
+blockquote {
+    position: relative;
+    margin: 0 0 1.5rem 1.5rem;
+}
+
+blockquote::before {
+    position: absolute;
+    left: -1.5rem;
+    content: ">";
+    color: $fg-alt;
+}
+
+code, kbd, pre, samp {
+    font-family: $font-family-monospace;
+    background-color: $bg-alt;
+    color: $fg-alt;
+}
+
+pre {
+    overflow-x: auto;
+    margin: 0 0 1.5rem 0;
+    padding: 1.5rem;
+}
+
+// Fix horizontal overflow when  `markup.highlight.lineNos = true`
+//
+//   [markup.highlight]
+//   lineNos = true
+.highlight div {
+    overflow-x: auto;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+::selection, mark {
+    // Invert main colorscheme. See main.scss
+    background-color: $fg;
+    color: $bg;
+}
+
+hr {
+    border: 0;
+    margin-bottom: 1.5rem;
+}
+
+hr:after {
+    content: '---';
+}
+
+sub, sup {
+    font-size: unset;
+    position: relative;
+    top: -0.25rem;
+    vertical-align: baseline;
+}
+
+sub {
+    top: 0.25rem;
+}
+
+table {
+    border-spacing: 0;
+    margin: 0 0 1.5rem 0;
+    overflow-wrap: anywhere;
+}
+
+th, td {
+    padding: 0 .75rem;
+    vertical-align: top;
+}
+
+th:first-child, td:first-child {
+    padding-left: 0;
+}
+
+th {
+    text-align: inherit;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
