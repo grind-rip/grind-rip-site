@@ -1,0 +1,9 @@
+[submodule "content/algorithms/algorithms"]
+	path = content/algorithms/algorithms
+	url = git@github.com:grind-rip/algorithms.git
+[submodule "content/leetcode/leetcode"]
+	path = content/leetcode/leetcode
+	url = git@github.com:grind-rip/leetcode.git
+[submodule "content/docs/docs"]
+	path = content/docs/docs
+	url = git@github.com:grind-rip/docs.git
