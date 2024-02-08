@@ -27,7 +27,7 @@ excepteur excepteur pariatur nostrud qui irure ullamco.
 
 Here lies a  developer  of  erudition  and  resolve
 There was not a LeetCode problem be could not solve
-But in  the  quest  for  presige  and  top-tier  TC
+But  in  the  quest  for  presige  and   higher  TC
 He  met  his  end  when  inverting  a  binary  tree
 
 ```
