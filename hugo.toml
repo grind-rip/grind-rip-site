@@ -3,23 +3,36 @@ languageCode = 'en-us'
 title = 'grind.rip'
 theme = 'grind-rip'
 
+[module]
+[[module.mounts]]
+  excludeFiles = [
+    'algorithms/algorithms',
+    'docs/docs',
+    'leetcode/leetcode'
+  ]
+  source = 'content'
+  target = 'content'
+
 [markup]
   [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    highlight = true
-    style = "doom-one"
+  codeFences = true
+  guessSyntax = false
+  highlight = true
+  style = "doom-one"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+    taskList = false
+    typographer = false
 
 [params]
+  [params.about]
+  title = 'grind.rip'
+  description = 'From Grind Hell, with Love'
 
-[params.about]
-title = 'grind.rip'
-description = 'From Grind Hell, with Love'
-
-[[params.socials]]
-icon = 'fa-brands fa-github'
-name = 'GitHub'
-url = 'https://github.com/grind-rip'
+  [[params.socials]]
+  icon = 'fa-brands fa-github'
+  name = 'GitHub'
+  url = 'https://github.com/grind-rip'
 
 [[menus.main]]
 name = 'algorithms'
@@ -36,7 +49,32 @@ name = 'leetcode'
 pageRef = '/leetcode'
 weight = 30
 
-[[menus.main]]
+[[menus.aside]]
+name = 'blind_75.md'
+pageRef = '/blind_75.md'
+weight = 10
+
+[[menus.aside]]
+name = 'grind_169.md'
+pageRef = '/grind_169.md'
+weight = 20
+
+[[menus.aside]]
+name = 'interviews.md'
+pageRef = '/interviews.md'
+weight = 30
+
+[[menus.aside]]
 name = 'journal.md'
 pageRef = '/journal.md'
 weight = 40
+
+[[menus.aside]]
+name = 'notes.md'
+pageRef = '/notes.md'
+weight = 50
+
+[[menus.aside]]
+name = 'roadmap.md'
+pageRef = '/roadmap.md'
+weight = 60
