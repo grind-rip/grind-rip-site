@@ -11,9 +11,13 @@
 {{ end }}
 
 {{ define "aside" }}
+  {{ partial "menu.html" (dict "menuID" "aside" "page" .) }}
+  <hr/>
   {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
   {{ with .Params.author }}<p>By {{ . }}</p>{{ end }}
+  {{- if .Date }}
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  {{ end }}
 {{ end }}
