@@ -1,0 +1,19 @@
+.aside ul {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 0rem 1.5rem;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0 0 0.25rem 0;
+}
+
+.aside li {
+    margin-left: 1rem;
+    padding-top: 0.25rem;
+    text-transform: lowercase;
+}
+
+.aside li::marker {
+    content: "./";
+    color: $fg-alt;
+}
