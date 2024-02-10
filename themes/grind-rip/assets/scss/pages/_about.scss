@@ -20,10 +20,10 @@
 
     .socials li {
         display: inline-block;
+        margin: 0;
     }
 
     .socials li::marker {
         content: none;
     }
 }
-
