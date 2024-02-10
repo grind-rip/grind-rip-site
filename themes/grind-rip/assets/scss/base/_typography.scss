@@ -59,7 +59,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 
 ul li::marker {
-    content: '∗\00A0';
+    content: '*\00A0';
     color: $fg-alt;
 }
 
@@ -129,7 +129,8 @@ b, strong {
 
 hr {
     border: 0;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.0rem;
+    margin-top: 1.0rem;
 }
 
 hr:after {
