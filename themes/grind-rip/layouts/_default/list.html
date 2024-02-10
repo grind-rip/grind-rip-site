@@ -3,12 +3,14 @@
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    {{ .Description }}
   {{ end }}
 {{ end }}
 
 {{ define "aside" }}
-    {{ if .Params.description }}
-    <p>{{ .Params.description }}</p>
-    {{ end }}
+{{ partial "menu.html" (dict "menuID" "aside" "page" .) }}
+{{ if .Params.description }}
+<hr/>
+<p>{{ .Params.description }}</p>
+{{ end }}
 {{ end }}
