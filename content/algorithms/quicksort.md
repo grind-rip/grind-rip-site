@@ -1,5 +1,13 @@
 +++
 title = 'Quicksort'
-date = 2024-02-07T12:00:00-06:00
 draft = false
+description =  '''
+Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot'
+element from the array and partitioning the other elements into two sub-arrays,
+according to whether they are less than or greater than the pivot. The
+sub-arrays are then sorted recursively.
+'''
 +++
+
+{{< include-file "content/algorithms/algorithms/src/quicksort.py" "python" >}}
+{{< include-file "content/algorithms/algorithms/src/shared/partition.py" "python" >}}
