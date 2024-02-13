@@ -23,6 +23,8 @@ theme = 'grind-rip'
     [markup.goldmark.extensions]
     taskList = false
     typographer = false
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   [params.about]
