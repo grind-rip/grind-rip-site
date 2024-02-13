@@ -260,4 +260,4 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ---
 
-[All Grind 169 Questions](https://www.techinterviewhandbook.org/grind75?mode=all&order=topics&grouping=topics)
+* [All Grind 169 Questions](https://www.techinterviewhandbook.org/grind75?mode=all&order=topics&grouping=topics)
