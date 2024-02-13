@@ -40,8 +40,8 @@ companies.
 - [x] [Coin Change](https://leetcode.com/problems/coin-change)
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv)
+- [ ] [Word Break](https://leetcode.com/problems/word-break)
+- [ ] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)
@@ -57,9 +57,9 @@ companies.
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
-- [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary)
-- [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree)
-- [ ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
+- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
+- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
+- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 
 ---
 
@@ -68,8 +68,8 @@ companies.
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
-- [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms)
-- [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii)
+- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
+- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
 
 ---
 
@@ -78,8 +78,8 @@ companies.
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
 
 ---
@@ -104,7 +104,7 @@ companies.
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
-- [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings)
+- [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
 
 ---
 
@@ -112,7 +112,7 @@ companies.
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
@@ -120,20 +120,20 @@ companies.
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
-- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
-- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design)
+- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii)
 
 ---
 
 ## Heap
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
 ---
 
-The original Blind 75 post:
+The original "Blind 75" post:
 * [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
