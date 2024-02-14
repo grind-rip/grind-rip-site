@@ -62,21 +62,26 @@ pageRef = '/grind_169.md'
 weight = 20
 
 [[menus.aside]]
+name = 'neetcode_150.md'
+pageRef = '/neetcode_150.md'
+weight = 30
+
+[[menus.aside]]
 name = 'interviews.md'
 pageRef = '/interviews.md'
-weight = 30
+weight = 40
 
 [[menus.aside]]
 name = 'journal.md'
 pageRef = '/journal.md'
-weight = 40
+weight = 50
 
 [[menus.aside]]
 name = 'notes.md'
 pageRef = '/notes.md'
-weight = 50
+weight = 60
 
 [[menus.aside]]
 name = 'roadmap.md'
 pageRef = '/roadmap.md'
-weight = 60
+weight = 70
