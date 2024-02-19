@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'grind.rip'
 theme = 'grind-rip'
 
+# Google Analytics measurement ID (Google Analytics 4)
+googleAnalytics = "G-L6YLMG3HFY"
+
 [module]
 [[module.mounts]]
   excludeFiles = [
