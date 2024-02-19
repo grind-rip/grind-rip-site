@@ -16,12 +16,21 @@
     .socials {
         font-size: 20px;
         padding: 0;
-        height: 1.5rem;
+        text-decoration: none;
+    }
+
+    .socials ul {
+        display: inline;
+        margin: 0;
     }
 
     .socials li {
-        display: inline-block;
+        display: inline;
         margin: 0;
+    }
+
+    .socials a {
+        text-decoration: none;
     }
 
     .socials li::marker {
