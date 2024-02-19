@@ -1,32 +1,30 @@
 <!DOCTYPE html>
-<html
-    lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
-    dir="{{ or site.Language.LanguageDirection `ltr` }}">
-    <head>
-        {{ partial "head.html" . }}
-    </head>
-    <body>
-        <div class="page">
-            <header class="header">
-                {{ partial "header.html" . }}
-            </header>
-            <main class="main">
-                {{ block "main" . }}{{ end }}
-            </main>
-            <section class="aside">
-                <div class="about">
-                    {{- partial "about.html" . -}}
-                </div>
-                <hr/>
-                <div class="content">
-                    {{- block "aside" . }}{{- end }}
-                </div>
-            </section>
-            <footer class="footer">
-                {{ partial "footer.html" . }}
-            </footer>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <div class="page">
+      <header class="header">
+        {{ partial "header.html" . }}
+      </header>
+      <main class="main">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <section class="aside">
+        <div class="about">
+          {{- partial "about.html" . -}}
         </div>
-        <!-- Support for Google Analytics 4 -->
-        {{ partial "google-analytics.html" . }}
-    </body>
+        <hr />
+        <div class="content">
+          {{- block "aside" . }}{{- end }}
+        </div>
+      </section>
+      <footer class="footer">
+        {{ partial "footer.html" . }}
+      </footer>
+    </div>
+    <!-- Support for Google Analytics 4 -->
+    {{ partial "google-analytics.html" . }}
+  </body>
 </html>
