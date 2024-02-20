@@ -9,7 +9,7 @@ friendly and comprehensive list.
 
 ## Arrays & Hashing
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
