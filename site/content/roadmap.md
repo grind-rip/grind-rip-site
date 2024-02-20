@@ -60,7 +60,7 @@ draft = false
 ---
 
 This roadmap is an amalgam of the following resources:
-* https://neetcode.io/roadmap
-* https://www.techinterviewhandbook.org/algorithms/study-cheatsheet
-* https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-* https://seanprashad.com/leetcode-patterns
+* [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+* [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+* [NeetCode | Roadmap](https://neetcode.io/roadmap)
+* [Tech Interview Handbook | Algorithms](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet)

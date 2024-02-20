@@ -64,6 +64,8 @@ Topological Sort is used to find a linear ordering of elements that have depende
 
 ---
 
+## [Leetcode Patterns | Tips](https://seanprashad.com/leetcode-patterns/)
+
 ```
 If input array is sorted then
 - Binary search
@@ -106,14 +108,8 @@ Else
 - Sort input for O(nlogn) time and O(1) space
 ```
 
-Source: https://seanprashad.com/leetcode-patterns/
-
 ---
 
 >...the most common question difficulty in coding interviews is Medium.
 
-https://www.techinterviewhandbook.org/grind75/faq
-
----
-
-For combinatorial problems, the runtime is usually exponential.
+Source: [Tech Interview Handbook | FAQ](https://www.techinterviewhandbook.org/grind75/faq)
