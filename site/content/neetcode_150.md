@@ -167,14 +167,14 @@ friendly and comprehensive list.
 
 ## 1-D Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - [ ] [Word Break](https://leetcode.com/problems/word-break)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
@@ -185,7 +185,7 @@ friendly and comprehensive list.
 ## 2-D Dynamic Programming
 
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 - [ ] [Best Time to Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
 - [ ] [Coin Change II](https://leetcode.com/problems/coin-change-ii)
 - [ ] [Target Sum](https://leetcode.com/problems/target-sum)
