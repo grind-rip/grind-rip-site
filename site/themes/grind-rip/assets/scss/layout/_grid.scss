@@ -1,6 +1,7 @@
 .page {
     display: grid;
-    max-width: 68rem;
+    // 72rem = 88 character line length
+    max-width: 72rem;
     grid-row-gap: 2rem;
     grid-template-areas: "header" "body" "aside" "footer";
     grid-template-columns: minmax(0, 1fr);
