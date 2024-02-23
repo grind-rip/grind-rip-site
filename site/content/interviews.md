@@ -1,6 +1,10 @@
 +++
 title = 'interviews.md'
 draft = false
+description =  '''
+All the technical interview questions I've recieved with accompanying
+solutions.
+'''
 +++
 
 ## [**Google**](https://www.google.com)
