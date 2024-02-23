@@ -78,7 +78,7 @@ companies.
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
 
@@ -129,7 +129,7 @@ companies.
 
 ## Heap
 
-- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
