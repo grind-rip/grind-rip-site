@@ -2,7 +2,7 @@
   <a href="https://grind.rip">
     <img src="https://raw.githubusercontent.com/grind-rip/grind-rip-site/master/site/themes/grind-rip/static/grind-rip-256x256.png" style="border-radius: 0.5rem;" width="256" />
   </a>
-  <p align="center" style="font-family: 'Fira Mono', monospace, -apple-system">From Grind Hell, with Love</p>
+  <p align="center">From Grind Hell, with Love</p>
 </div>
 
 ---
