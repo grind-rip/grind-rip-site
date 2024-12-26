@@ -4,7 +4,9 @@ title = 'grind.rip'
 theme = 'grind-rip'
 
 # Google Analytics measurement ID (Google Analytics 4)
-googleAnalytics = 'G-L6YLMG3HFY'
+[services]
+  [services.googleAnalytics]
+    id = 'G-L6YLMG3HFY'
 
 [module]
   [[module.mounts]]
@@ -21,18 +23,30 @@ googleAnalytics = 'G-L6YLMG3HFY'
   codeFences = true
   guessSyntax = false
   highlight = true
+  # See: https://xyproto.github.io/splash/docs/
   style = 'doom-one'
   [markup.goldmark]
     [markup.goldmark.extensions]
     taskList = false
     typographer = false
-  [markup.goldmark.renderer]
+    [markup.goldmark.renderer]
     unsafe = true
 
 [params]
   [params.about]
   title = 'grind.rip'
   description = 'From Grind Hell, with Love'
+
+  [params.seo]
+  meta_og_title = 'grind.rip'
+  meta_og_description = 'From Grind Hell, with Love'
+  meta_og_site_name = 'grind.rip'
+  meta_og_image = 'grind-rip-256x256.png'
+  meta_twitter_title = 'grind.rip'
+  meta_twitter_description = 'From Grind Hell, with Love'
+  meta_twitter_site = '@grind_rip'
+  meta_twitter_creator = '@grind_rip'
+  meta_twitter_image = 'grind-rip-256x256.png'
 
   [[params.socials]]
   icon = 'fa-brands fa-github'

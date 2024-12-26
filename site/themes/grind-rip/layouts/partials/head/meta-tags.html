@@ -1,0 +1,18 @@
+{{ block "meta_tags" . }}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Site.Params.seo.meta_og_title }}">
+<meta property="og:description" content="{{ .Site.Params.seo.meta_og_description }}">
+<meta property="og:site_name" content="{{ .Site.Params.seo.meta_og_site_name }}">
+<meta property="og:image" content="{{ .Site.Params.seo.meta_og_image | absURL }}">
+<meta property="og:locale" content="en_US">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ .Site.Params.seo.meta_twitter_title }}">
+<meta name="twitter:description" content="{{ .Site.Params.seo.meta_twitter_description }}">
+<meta name="twitter:site" content="{{ .Site.Params.seo.meta_twitter_site }}">
+<meta name="twitter:creator" content="{{ .Site.Params.seo.meta_twitter_creator }}">
+<meta name="twitter:image" content="{{ .Site.Params.seo.meta_twitter_image | absURL }}">
+{{ end }}
