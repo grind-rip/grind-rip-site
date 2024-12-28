@@ -8,3 +8,4 @@ in a sequence of iterated function values.
 +++
 
 {{< include-file "content/algorithms/algorithms/src/cycle_detection.py" "python" >}}
+[Source](https://github.com/grind-rip/algorithms/blob/master/src/cycle_detection.py)

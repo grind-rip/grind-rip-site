@@ -10,4 +10,7 @@ sub-arrays are then sorted recursively.
 +++
 
 {{< include-file "content/algorithms/algorithms/src/quicksort.py" "python" >}}
+[Source](https://github.com/grind-rip/algorithms/blob/master/src/quicksort.py)
+
 {{< include-file "content/algorithms/algorithms/src/shared/partition.py" "python" >}}
+[Source](https://github.com/grind-rip/algorithms/blob/master/src/shared/partition.py)
