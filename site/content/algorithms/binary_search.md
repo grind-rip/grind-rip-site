@@ -7,5 +7,5 @@ array.
 '''
 +++
 
-{{< include-file "content/algorithms/algorithms/src/binary_search.py" "python" >}}
+{{< include-code "content/algorithms/algorithms/src/binary_search.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/binary_search.py)
