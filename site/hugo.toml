@@ -78,6 +78,11 @@ name = 'leetcode'
 pageRef = '/leetcode'
 weight = 30
 
+[[menus.main]]
+name = 'interviews'
+pageRef = '/interviews'
+weight = 40
+
 [[menus.aside]]
 name = 'blind_75.md'
 pageRef = '/blind_75.md'
@@ -92,11 +97,6 @@ weight = 20
 name = 'neetcode_150.md'
 pageRef = '/neetcode_150.md'
 weight = 30
-
-[[menus.aside]]
-name = 'interviews.md'
-pageRef = '/interviews.md'
-weight = 40
 
 [[menus.aside]]
 name = 'journal.md'
