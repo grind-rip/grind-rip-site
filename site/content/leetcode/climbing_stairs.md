@@ -3,7 +3,7 @@ title = 'Climbing Stairs'
 draft = false
 description =  '''
 '''
-weight = 5
 +++
 
-{{< include-file "content/leetcode/leetcode/src/climbing_stairs.py" "python" >}}
+{{< include-code "content/leetcode/leetcode/src/climbing_stairs.py" "python" >}}
+[Source](https://github.com/grind-rip/leetcode/blob/master/src/climbing_stairs.py) | [LeetCode](https://leetcode.com/problems/climbing-stairs)
