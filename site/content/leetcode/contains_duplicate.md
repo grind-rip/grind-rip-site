@@ -3,7 +3,7 @@ title = 'Contains Duplicate'
 draft = false
 description =  '''
 '''
-weight = 3
 +++
 
-{{< include-file "content/leetcode/leetcode/src/contains_duplicate.py" "python" >}}
+{{< include-code "content/leetcode/leetcode/src/contains_duplicate.py" "python" >}}
+[Source](https://github.com/grind-rip/leetcode/blob/master/src/contains_duplicate.py) | [LeetCode](https://leetcode.com/problems/contains_duplicate)
