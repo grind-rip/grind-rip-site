@@ -3,7 +3,7 @@ title = 'Two Sum'
 draft = false
 description =  '''
 '''
-weight = 1
 +++
 
-{{< include-file "content/leetcode/leetcode/src/two_sum.py" "python" >}}
+{{< include-code "content/leetcode/leetcode/src/two_sum.py" "python" >}}
+[Source](https://github.com/grind-rip/leetcode/blob/master/src/two_sum.py) | [LeetCode](https://leetcode.com/problems/two-sum)
