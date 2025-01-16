@@ -4,6 +4,9 @@
 [submodule "site/content/docs/docs"]
 	path = site/content/docs/docs
 	url = git@github.com:grind-rip/docs.git
+[submodule "site/content/interviews/interviews"]
+	path = site/content/interviews/interviews
+	url = git@github.com:grind-rip/interviews.git
 [submodule "site/content/leetcode/leetcode"]
 	path = site/content/leetcode/leetcode
 	url = git@github.com:grind-rip/leetcode.git

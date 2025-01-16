@@ -13,7 +13,8 @@ theme = 'grind-rip'
   excludeFiles = [
     'algorithms/algorithms',
     'docs/docs',
-    'leetcode/leetcode'
+    'leetcode/leetcode',
+    'interviews/interviews'
   ]
   source = 'content'
   target = 'content'
