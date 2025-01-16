@@ -3,7 +3,7 @@ title = 'Longest Common Subsequence'
 draft = false
 description =  '''
 '''
-weight = 8
 +++
 
-{{< include-file "content/leetcode/leetcode/src/longest_common_subsequence.py" "python" >}}
+{{< include-code "content/leetcode/leetcode/src/longest_common_subsequence.py" "python" >}}
+[Source](https://github.com/grind-rip/leetcode/blob/master/src/longest_common_subsequence.py) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence)
