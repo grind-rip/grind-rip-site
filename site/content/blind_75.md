@@ -11,11 +11,11 @@ companies.
 
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [x] [Two Sum](../leetcode/two_sum)
+- [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
+- [x] [Contains Duplicate](../leetcode/contains_duplicate)
+- [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
+- [x] [Maximum Subarray](../leetcode/maximum_subarray)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
@@ -36,13 +36,13 @@ companies.
 
 ## Dynamic Programming
 
-- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-- [x] [Coin Change](https://leetcode.com/problems/coin-change)
-- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
-- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+- [x] [Climbing Stairs](../leetcode/climbing_stairs)
+- [x] [Coin Change](../leetcode/coin_change)
+- [x] [Longest Increasing Subsequence](../leetcode/longest_increasing_subsequence)
+- [x] [Longest Common Subsequence](../leetcode/longest_common_subsequence)
 - [ ] [Word Break](https://leetcode.com/problems/word-break)
 - [ ] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber)
+- [x] [House Robber](../leetcode/house_robber)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
@@ -76,7 +76,7 @@ companies.
 ## Linked List
 
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
-- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+- [x] [Linked List Cycle](../leetcode/linked_list_cycle)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -98,10 +98,10 @@ companies.
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [x] [Valid Anagram](../leetcode/valid_anagram)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
-- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- [x] [Valid Parentheses](../leetcode/valid_parentheses)
+- [x] [Valid Palindrome](../leetcode/valid_palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
@@ -110,15 +110,15 @@ companies.
 
 ## Tree
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree)
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+- [x] [Maximum Depth of Binary Tree](../leetcode/maximum_depth_of_binary_tree)
+- [x] [Same Tree](../leetcode/same_tree)
+- [x] [Invert Binary Tree](../leetcode/invert_binary_tree)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
+- [x] [Subtree of Another Tree](../leetcode/subtree_of_another_tree)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+- [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
