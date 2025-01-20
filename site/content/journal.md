@@ -24,7 +24,7 @@ In the past, I have done technical interviews in Go. Since Go is a less forgivin
 
 * Called brother
 
-My brother, [Stefan Kraus](https://www.linkedin.com/in/stefan-kraus-g/), is a Software Engineer (L4) at Google. We talked about the interview process and areas I should focus on. Since he recommended focusing on the Software Engineer III role (as opposed to the Senior Software Engineer role, which has a far more rigorous interview process), my preparation should focus mainly on algorithms and data structures.
+My brother, [Stefan Kraus](https://www.linkedin.com/in/stefan-kraus-g), is a Software Engineer (L4) at Google. We talked about the interview process and areas I should focus on. Since he recommended focusing on the Software Engineer III role (as opposed to the Senior Software Engineer role, which has a far more rigorous interview process), my preparation should focus mainly on algorithms and data structures.
 
 * Developed a study plan
 
@@ -40,7 +40,7 @@ Warmed up with an easy one. It took longer than expected, but, as I've learned, 
 
 * Completed [Best Time to Buy and Sell Stock](/leetcode/best_time_to_buy_and_sell_stock)
 
-Another easy one (sliding window). Again, it took longer than expected and I should keep in mind that a sliding window can also look backwards. I was able to quickly find the `O(n^2)` solution, however, this will not cut it for Google. If ever a solution runs in `O(n^2)` time, you will probably need to rethink the problem and find a better solution.
+Another easy one (sliding window). Again, it took longer than expected and I should keep in mind that a sliding window can also look backwards. I was able to quickly find the O(n^2) solution, however, this will not cut it for Google. If ever a solution runs in O(n^2) time, you will probably need to rethink the problem and find a better solution.
 
 After lunch I plan to read through some documentation on the Tech Interview Handbook.
 
@@ -54,7 +54,7 @@ After lunch I plan to read through some documentation on the Tech Interview Hand
 
 ## 2024-01-16
 
-* Spent over 4 hours studing today. Mostly dynamic programming. Finally getting the gist of how to solve these problems, though I still find the iterative approach (bottom-up approach) difficult to come to intutively.
+* Spent over 4 hours studying today. Mostly dynamic programming. Finally getting the gist of how to solve these problems, though I still find the iterative approach (bottom-up approach) difficult to come to intuitively.
 
 ## 2024-01-17
 
@@ -76,14 +76,14 @@ It looks like Google is moving me forward with the L5 interview. RIP
 
 I was provided the following preparation materials:
 
->Start by familiarizing yourself with what to expect in the [Google interview process](https://www.google.com/about/careers/applications/interview-tips/).
+>Start by familiarizing yourself with what to expect in the [Google interview process](https://www.google.com/about/careers/applications/interview-tips).
 >Additionally, here are some resources that will help guide your preparation.
 >Many of these resources come highly recommended from recently hired Google
 >Engineers.
 >
 >**General Technical Screening Resources - Software Engineer**
 >* [Explore our products](https://about.google/products/?tip=undo-send)
->* [Tech Dev Guide](https://techdevguide.withgoogle.com/) for brushing up on CS
+>* [Tech Dev Guide](https://techdevguide.withgoogle.com) for brushing up on CS
 >fundamentals
 >* Videos: [How We Hire](https://www.youtube.com/watch?v=zhUgaKb0s5A),
 >[How to Prepare](https://www.youtube.com/watch?v=6ZZX9iIgFoo),
@@ -205,7 +205,7 @@ One more day before my interview with Google. Whatever happens, happens. I've be
 
 I also started a new project: [grind.rip](https://grind.rip)
 
-This project is meant to document my job interview preparation journey. It's meant to be serious, but also a little tongue-and-cheek. Grinding kinda sucks, but it's good for you. Have you ever worked with a Software Engineer who couldn't code worth shit? They probably never had to grind. They probably never spent nights and weekends learning data structures and algorithms. They probably never failed a coding interview because the company they work for *doesn't believe in coding interviews*. Fuck that soft shit.
+This project is meant to document my job interview preparation journey. It's meant to be serious, but also a little tongue-in-cheek. Grinding kinda sucks, but it's good for you. Have you ever worked with a Software Engineer who couldn't code worth shit? They probably never had to grind. They probably never spent nights and weekends learning data structures and algorithms. They probably never failed a coding interview because the company they work for *doesn't believe in coding interviews*. Fuck that soft shit.
 
 ---
 
@@ -228,7 +228,7 @@ Back to the grind...
 
 ## 2024-12-27
 
-* Implemented [Depth-first Search (DFS)](/algorithms/depth_first_search) and complete [Flood Fill](/leetcode/flood_fill). It was surprisingly easy.
+* Implemented [Depth-first Search (DFS)](/algorithms/depth_first_search) and completed [Flood Fill](/leetcode/flood_fill). It was surprisingly easy.
 
 ## 2024-12-28
 
@@ -236,7 +236,7 @@ Back to the grind...
 
 ## 2024-12-29
 
-* Damn. I had a lot of unfinished LeetCode problems. What's interesting though, is even after 10 months of zero studing, I'm still much better than when I started back in January 2024. For example, I have a much better intuition around dynamic programming. Case in point, completed [House Robber](/leetcode/house_robber).
+* Damn. I had a lot of unfinished LeetCode problems. What's interesting though, is even after 10 months of zero studying, I'm still much better than when I started back in January 2024. For example, I have a much better intuition around dynamic programming. Case in point, completed [House Robber](/leetcode/house_robber).
 
 ## 2024-12-30
 
@@ -244,7 +244,7 @@ Back to the grind...
 
 ## 2024-12-31
 
-* Picking up steam. I've been rotating between studying ([`/docs`](/docs)), algorithms ([`/algorithms`](/algorithms)), and solving LeetCode problems ([`/leetcode`](/leetcode)). I'll expand on this framework later...
+* Picking up steam. I've been rotating between studying ([/docs](/docs)), algorithms ([/algorithms](/algorithms)), and solving LeetCode problems ([/leetcode](/leetcode)). I'll expand on this framework later...
 
 ## 2025-01-01
 
@@ -255,13 +255,13 @@ Back to the grind...
 * Completed the following:
   * [Product of Array Except Self](/leetcode/product_of_array_except_self)
   * LeetCode: [Maximum Subarray](/leetcode/maximum_subarray)
-  * Algorithm: [Maximum Subarray](/algorithm/maximum_subarray)
+  * Algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
 
 After studying specific topics I reinforce what I've learned by applying the knowledge to related LeetCode problems.
 
 ## 2025-01-03
 
-* Studying [strings](/docs/arrays.md)
+* Studying [strings](/docs/strings.md)
 
 ## 2025-01-04
 
@@ -279,7 +279,7 @@ After studying specific topics I reinforce what I've learned by applying the kno
   * [Valid Palindrome](/leetcode/valid_palindrome)
   * [Valid Parentheses](/leetcode/valid_parentheses)
 
-* Updated my resume to make it more ✨*ATS-friendly*✨
+Updated my resume to make it more ✨*ATS-friendly*✨
 
 ## 2025-01-07
 
@@ -294,27 +294,23 @@ After studying specific topics I reinforce what I've learned by applying the kno
 
 Shit's stale.
 
-## 2025-01-08
-
-Studying [trees](/docs/trees.md):
-* [Flood Fill](/leetcode/flood_fill)
-* [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
-
-Trees are easy.
-
 ## 2025-01-09
 
-More trees:
-* [Same Tree](/leetcode/same_tree)
-* [Invert Binary Tree](/leeetcode/invert_binary_tree) ([Bruh, it's not even hard](https://x.com/mxcl/status/608682016205344768))
+* Studying [trees](/docs/trees.md):
+  * [Flood Fill](/leetcode/flood_fill)
+  * [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
+  * [Same Tree](/leetcode/same_tree)
+  * [Invert Binary Tree](/leetcode/invert_binary_tree) ([Bruh, it's not even hard](https://x.com/mxcl/status/608682016205344768))
+
+Trees are easy.
 
 Applied to [Upstart](https://www.upstart.com) (Senior Software Engineer, Delivery). I have no intentions of working here, but I need to get some interview reps.
 
 ## 2025-01-10
 
-Even more trees:
-* [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
-* [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
+* Even more trees:
+  * [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
+  * [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
 
 Damn. **Subtree of Another Tree** was a LeetCode easy and it took me over an hour to get the solution. Confidence at an all-time low.
 
@@ -346,7 +342,8 @@ Literally zero return emails apart from the flush from PushPress. What the fuck 
 * Applied to the following companies:
   * [Raft](https://teamraft.com) (Senior Software Engineer)
   * [SentinelOne](https://www.sentinelone.com) (Senior AI Platform Engineer - NLP | LLM)
-* Completed [Linked List Cycle](/leetcode/linked_list_cycle)
+
+Completed [Linked List Cycle](/leetcode/linked_list_cycle)
 
 ## 2025-01-14
 
@@ -361,7 +358,7 @@ Applied to [Ramp](https://ramp.com) (Staff Software Engineer | Backend). Heard a
 
 Finished the algorithm and LeetCode problem for Longest Common Subsequence:
 * LeetCode: [Longest Common Subsequence](/leetcode/longest_common_subsequence)
-* Algorithm: [Longest Common Subsequence](/algorithm/longest_common_subsequence)
+* Algorithm: [Longest Common Subsequence](/algorithms/longest_common_subsequence)
 
 ## 2025-01-16
 
@@ -385,12 +382,12 @@ This is my workday:
 
 ## 2025-01-19
 
-Grinded for 28hr 15min this week. Worked my job for 7hr 15min (including meetings). I spent *literally* 1hr 15min doing actual, ticketed work. Who cares about how much work I actually do, I'm good vibez guy now 😎.
-Fuck. Spent over 4 hours on a recursive and memoization solution to [Longest Common Subsequence](/leetcode/longest_increasing_subsequence/). Was it worth it? I don't know. The 'tism took over and I couldn't stop working on it until I found a solution.
+* Grinded for 28hr 15min this week. Worked my job for 7hr 15min (including meetings). I spent *literally* 1hr 15min doing actual, ticketed work. Who cares about how much work I actually do, I'm good vibez guy now 😎.
+* Fuck. Spent over 4 hours on a recursive and memoization solution to [Longest Increasing Subsequence](/leetcode/longest_increasing_subsequence). Was it worth it? I don't know. The 'tism took over and I couldn't stop working on it until I found a solution.
 
 ## 2025-01-20
 
-Finished adding my [solutions for the Architect.io online assessment](/interviews/architect-io) in 2022.
-It's MLK Day again and I'm back to where I was last year. Grinding.
-Off to a good start. Gotta beat my high score of 28hr 15min from last week.
-Wrote a lot of journal entries...
+* Finished adding my [solutions for the Architect.io online assessment](/interviews/architect-io) in 2022.
+* It's MLK Day again and I'm back to where I was last year. Grinding.
+* Off to a good start. Gotta beat my high score of 28hr 15min from last week.
+* Wrote a lot of journal entries...
