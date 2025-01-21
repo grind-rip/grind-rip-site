@@ -60,6 +60,11 @@ theme = 'grind-rip'
   url = 'https://twitter.com/grind_rip'
 
   [[params.socials]]
+  icon = 'fa-brands fa-youtube'
+  name = 'YoutTube'
+  url = 'https://www.youtube.com/@grind-rip'
+
+  [[params.socials]]
   icon = 'fa-solid fa-envelope'
   name = 'Email'
   url = 'mailto:0x@nickolaskraus.io'
