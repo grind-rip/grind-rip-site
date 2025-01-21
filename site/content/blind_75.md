@@ -75,7 +75,7 @@ companies.
 
 ## Linked List
 
-- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [x] [Linked List Cycle](../leetcode/linked_list_cycle)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
