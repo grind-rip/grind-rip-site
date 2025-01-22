@@ -159,7 +159,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Linked List
 
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+- [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
 - [x] [Linked List Cycle](../leetcode/linked_list_cycle)
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
