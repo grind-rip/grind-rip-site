@@ -157,7 +157,7 @@ I really need to finish up the following questions:
 
 * Completed two (relatively) easy ones:
   * [Reverse a Linked List](/leetcode/reverse_linked_list)
-  * [Detect Cycle in a Linked List](/leetcode/linked_list_cycle)
+  * [Linked List Cycle](/leetcode/linked_list_cycle)
 
 ## 2024-01-25
 
@@ -391,3 +391,26 @@ This is my workday:
 * It's MLK Day again and I'm back to where I was last year. Grinding.
 * Off to a good start. Gotta beat my high score of 28hr 15min from last week.
 * Wrote a lot of journal entries...
+
+## 2025-01-21
+
+* Created a YouTube account: https://www.youtube.com/@grind-rip
+* Focusing on [linked lists](/docs/linked_lists).
+* Taking a different approach this week. Instead of covering the topic for a day, I am going to spend the entire week mastering the topic and completing all the recommended LeetCode problems:
+  * [Reverse a Linked List](/leetcode/reverse_linked_list)
+  * [Linked List Cycle](/leetcode/linked_list_cycle)
+  * [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
+  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
+  * [Remove Nth Node From End Of List](/leetcode/remove_nth_node_from_end_of_list)
+  * [Reorder List](/leetcode/reorder_list)
+
+## 2025-01-22
+
+* Created a Discord server: https://discord.gg/KgdQCYpZ
+* Organized [roadmap.md](/roadmap)
+* Working on the following:
+  * [Remove Nth Node From End Of List](/leetcode/remove_nth_node_from_end_of_list)
+  * [Reorder List](/leetcode/reorder_list)
+  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
+
+I decided to do these from easiest to hardest.
