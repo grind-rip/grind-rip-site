@@ -71,7 +71,7 @@ friendly and comprehensive list.
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
 - [ ] [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [x] [Linked List Cycle](../leetcode/linked_list_cycle)

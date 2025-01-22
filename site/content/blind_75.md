@@ -78,8 +78,8 @@ companies.
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [x] [Linked List Cycle](../leetcode/linked_list_cycle)
 - [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
-- [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
 
 ---

@@ -164,7 +164,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
 - [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
