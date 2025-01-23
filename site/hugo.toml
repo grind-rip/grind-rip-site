@@ -115,11 +115,6 @@ pageRef = '/journal.md'
 weight = 50
 
 [[menus.aside]]
-name = 'notes.md'
-pageRef = '/notes.md'
-weight = 60
-
-[[menus.aside]]
 name = 'roadmap.md'
 pageRef = '/roadmap.md'
-weight = 70
+weight = 60
