@@ -162,7 +162,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
 - [x] [Linked List Cycle](../leetcode/linked_list_cycle)
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+- [x] [Middle of the Linked List](../leetcode/middle_of_the_linked_list)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
 - [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
