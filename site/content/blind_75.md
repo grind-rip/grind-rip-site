@@ -132,7 +132,3 @@ companies.
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
-
----
-
-* [Original Blind 75 Post](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)

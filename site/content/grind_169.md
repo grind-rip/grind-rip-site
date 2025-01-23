@@ -257,7 +257,3 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number)
-
----
-
-* [All Grind 169 Questions](https://www.techinterviewhandbook.org/grind75?mode=all&order=topics&grouping=topics)

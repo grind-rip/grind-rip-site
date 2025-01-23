@@ -244,7 +244,3 @@ friendly and comprehensive list.
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer)
-
----
-
-* [All NeetCode 150 Questions](https://neetcode.io/practice)
