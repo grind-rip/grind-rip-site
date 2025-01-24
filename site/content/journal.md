@@ -414,3 +414,28 @@ This is my workday:
   * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
 
 I decided to do these from easiest to hardest.
+
+## 2025-01-23
+
+* Finalized [roadmap.md](/roadmap).
+* Reviewed and removed `notes.md` (this seemed redundant).
+* Flushed from Ramp:
+
+>Hi Nickolas,
+>
+>Thank you for your interest in joining Ramp. We greatly appreciate you considering us in your job search. We've reviewed your application and, unfortunately, will not be moving forward with your candidacy for the Staff Software Engineer | Backend opening.
+>
+>...
+
+I was going through my notes and found this:
+>When prepping for the technical interview, it is important to balance priorities. You should spend probably 50% of your time studying and 50% of your time doing problems. This balance should be complimentary, as studying provides the foundational knowledge for solving problems, and solving problems reinforces what you've learned.
+
+Couldn't agree more.
+
+* Added the following, since it is a prerequisite for [Reorder List](/leetcode/reorder_list):
+  * [Middle of the Linked List](/leetcode/middle_of_the_linked_list)
+
+## 2025-01-24
+
+* Feeling good today. Fridays are always good days to grind.
+* A man of my word. Completed Linked Lists.
