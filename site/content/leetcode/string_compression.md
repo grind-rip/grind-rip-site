@@ -5,5 +5,5 @@ description =  '''
 '''
 +++
 
-{{< include-code "content/leetcode/leetcode/src/string_compression.py" "python" >}}
+{{< include-code "content/leetcode/_leetcode/src/string_compression.py" "python" >}}
 [Source](https://github.com/grind-rip/leetcode/blob/master/src/string_compression.py) | [LeetCode](https://leetcode.com/problems/string-compression)

@@ -8,8 +8,8 @@ n elements.
 '''
 +++
 
-{{< include-code "content/algorithms/algorithms/src/quickselect.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/quickselect.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/quickselect.py)
 
-{{< include-code "content/algorithms/algorithms/src/shared/partition.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/shared/partition.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/shared/partition.py)

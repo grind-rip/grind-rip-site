@@ -6,4 +6,4 @@ Solutions for the Architect.io technical interview
 '''
 +++
 
-{{< include-md "content/interviews/interviews/architect-io/README.md" >}}
+{{< include-md "content/interviews/_interviews/architect-io/README.md" >}}

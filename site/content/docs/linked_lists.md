@@ -8,5 +8,5 @@ connected in a sequence, with each node containing both data and a reference
 '''
 +++
 
-{{< include-md "content/docs/docs/linked_lists.md" >}}
+{{< include-md "content/docs/_docs/linked_lists.md" >}}
 [Source](https://github.com/grind-rip/docs/blob/master/linked_lists.md)

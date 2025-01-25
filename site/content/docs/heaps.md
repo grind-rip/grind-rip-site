@@ -9,5 +9,5 @@ priority queues.
 '''
 +++
 
-{{< include-md "content/docs/docs/heaps.md" >}}
+{{< include-md "content/docs/_docs/heaps.md" >}}
 [Source](https://github.com/grind-rip/docs/blob/master/heaps.md)

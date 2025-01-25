@@ -6,4 +6,4 @@ Solutions for the Amazon online assessment
 '''
 +++
 
-{{< include-md "content/interviews/interviews/amazon/README.md" >}}
+{{< include-md "content/interviews/_interviews/amazon/README.md" >}}

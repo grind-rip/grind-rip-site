@@ -9,5 +9,5 @@ change one word into the other.
 '''
 +++
 
-{{< include-code "content/algorithms/algorithms/src/levenshtein_distance.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/levenshtein_distance.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/levenshtein_distance.py)

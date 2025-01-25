@@ -5,5 +5,5 @@ description =  '''
 '''
 +++
 
-{{< include-code "content/leetcode/leetcode/src/linked_list_cycle.py" "python" >}}
+{{< include-code "content/leetcode/_leetcode/src/linked_list_cycle.py" "python" >}}
 [Source](https://github.com/grind-rip/leetcode/blob/master/src/linked_list_cycle.py) | [LeetCode](https://leetcode.com/problems/linked-list-cycle)

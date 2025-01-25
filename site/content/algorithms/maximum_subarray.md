@@ -8,5 +8,5 @@ can be solved in O(n) time and O(1) space.
 '''
 +++
 
-{{< include-code "content/algorithms/algorithms/src/maximum_subarray.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/maximum_subarray.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/maximum_subarray.py)

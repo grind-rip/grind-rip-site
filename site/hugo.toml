@@ -11,10 +11,11 @@ theme = 'grind-rip'
 [module]
   [[module.mounts]]
   excludeFiles = [
-    'algorithms/algorithms',
-    'docs/docs',
-    'leetcode/leetcode',
-    'interviews/interviews'
+    'algorithms/_algorithms',
+    'data-structures/_data-structures',
+    'docs/_docs',
+    'interviews/_interviews',
+    'leetcode/_leetcode',
   ]
   source = 'content'
   target = 'content'
@@ -80,19 +81,24 @@ pageRef = '/algorithms'
 weight = 10
 
 [[menus.main]]
+name = 'data_structures'
+pageRef = '/data-structures'
+weight = 20
+
+[[menus.main]]
 name = 'docs'
 pageRef = '/docs'
-weight = 20
+weight = 30
 
 [[menus.main]]
 name = 'leetcode'
 pageRef = '/leetcode'
-weight = 30
+weight = 40
 
 [[menus.main]]
 name = 'interviews'
 pageRef = '/interviews'
-weight = 40
+weight = 50
 
 [[menus.aside]]
 name = 'blind_75.md'

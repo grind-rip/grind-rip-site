@@ -1,12 +1,15 @@
-[submodule "site/content/algorithms/algorithms"]
-	path = site/content/algorithms/algorithms
+[submodule "site/content/algorithms/_algorithms"]
+	path = site/content/algorithms/_algorithms
 	url = git@github.com:grind-rip/algorithms.git
-[submodule "site/content/docs/docs"]
-	path = site/content/docs/docs
+[submodule "site/content/data-structures/_data-structures"]
+	path = site/content/data-structures/_data-structures
+	url = git@github.com:grind-rip/data-structures.git
+[submodule "site/content/docs/_docs"]
+	path = site/content/docs/_docs
 	url = git@github.com:grind-rip/docs.git
-[submodule "site/content/interviews/interviews"]
-	path = site/content/interviews/interviews
+[submodule "site/content/interviews/_interviews"]
+	path = site/content/interviews/_interviews
 	url = git@github.com:grind-rip/interviews.git
-[submodule "site/content/leetcode/leetcode"]
-	path = site/content/leetcode/leetcode
+[submodule "site/content/leetcode/_leetcode"]
+	path = site/content/leetcode/_leetcode
 	url = git@github.com:grind-rip/leetcode.git

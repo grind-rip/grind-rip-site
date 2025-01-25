@@ -7,8 +7,8 @@ possible along each branch before backtracking and traversing other nodes.
 '''
 +++
 
-{{< include-code "content/algorithms/algorithms/src/depth_first_search.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/depth_first_search.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/depth_first_search.py)
 
-{{< include-code "content/algorithms/algorithms/src/shared/node.py" "python" >}}
+{{< include-code "content/algorithms/_algorithms/src/shared/node.py" "python" >}}
 [Source](https://github.com/grind-rip/algorithms/blob/master/src/shared/node.py)
