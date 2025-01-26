@@ -438,4 +438,19 @@ Couldn't agree more.
 ## 2025-01-24
 
 * Feeling good today. Fridays are always good days to grind.
-* A man of my word. Completed Linked Lists.
+* A man of my word. Completed linked lists.
+
+## 2025-01-25
+
+* 100% done with linked lists...at least for now.
+* Created a new repository [grind-rip/data-structures](https://github.com/grind-rip/data-structures)
+* Put together my plan for heaps:
+  * Review/update documentation: [Heaps](/docs/heaps).
+  * Review/update documentation: [Priority Queues](/docs/priority_queues).
+  * Implement heap data structure: [Heap](/data-structures/heap).
+  * Implement heapsort algorithm: [Heapsort](/algorithms/heapsort).
+  * Implement k-way merge algorithm: [k-way Merge](/algorithms/k_way_merge).
+  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
+  * [Top K Frequent Elements](/leetcode/top_k_frequent_elements)
+  * [Find Median from Data Stream](/leetcode/find_median_from_data_stream)
+* I have 23 topics to master. I've completed linked lists, so that makes 22. If I devote a week to each topic, that is 22 weeks, or slightly over 5 months. The key will be not giving up and not getting distracted. By July, I should be a master of data structures and algorithms.

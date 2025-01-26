@@ -16,13 +16,13 @@ Roadmap for my interview grind
 - [x] Complete the following LeetCode problems:
   - [x] [Maximum Subarray](/leetcode/maximum_subarray)
 
-### Sliding Window
+#### Sliding Window
 - [ ] Complete the following LeetCode problems:
   - [ ] TBD
 
-### Two Pointers
+#### Two Pointers
 
-#### Fast & Slow Pointers
+##### Fast & Slow Pointers
 - [x] Review the following algorithm: [Cycle Detection](/algorithms/cycle_detection)
 - [x] Complete the following LeetCode problems:
   - [x] [Linked List Cycle](/leetcode/linked_list_cycle)
@@ -107,11 +107,19 @@ Roadmap for my interview grind
 
 ### Queues
 - [ ] Review the following documentation: [Queues](/docs/queues)
+- [ ] Review the following data structure: [Queue](/data-structures/queue)
 - [ ] Complete the following LeetCode problems:
   - [ ] TBD
 
 ### Stacks
 - [ ] Review the following documentation: [Stacks](/docs/stacks)
+- [ ] Review the following data structure: [Stack](/data-structures/stack)
+- [ ] Complete the following LeetCode problems:
+  - [ ] TBD
+
+### Deques
+- [ ] Review the following documentation: [Deques](/docs/deques)
+- [ ] Review the following data structure: [Deque](/data-structures/deque)
 - [ ] Complete the following LeetCode problems:
   - [ ] TBD
 
@@ -156,20 +164,15 @@ Roadmap for my interview grind
 
 ### Heaps
 - [x] Review the following documentation: [Heaps](/docs/heaps)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Heapsort
+- [ ] Review the following data structure: [Heap](/data-structures/heap)
 - [ ] Review the following algorithm: [Heapsort](/algorithms/heapsort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### k-way Merge
 - [ ] Review the following algorithm: [k-way Merge](/algorithms/k_way_merge)
 - [ ] Complete the following LeetCode problems:
-  - [ ] TBD
+  - [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
+  - [ ] [Top K Frequent Elements](../leetcode/top_k_frequent_elements)
+  - [ ] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
 
-### Priority Queues
+#### Priority Queues
 - [ ] Review the following documentation: [Priority Queues](/docs/priority_queues)
 - [ ] Complete the following LeetCode problems:
   - [ ] TBD
