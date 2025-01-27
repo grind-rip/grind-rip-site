@@ -454,3 +454,11 @@ Couldn't agree more.
   * [Top K Frequent Elements](/leetcode/top_k_frequent_elements)
   * [Find Median from Data Stream](/leetcode/find_median_from_data_stream)
 * I have 23 topics to master. I've completed linked lists, so that makes 22. If I devote a week to each topic, that is 22 weeks, or slightly over 5 months. The key will be not giving up and not getting distracted. By July, I should be a master of data structures and algorithms.
+
+## 2025-01-26
+
+* Starting heaps. Heaps a hard.
+
+## 2025-01-27
+
+* OK, let's implement a heap and heapsort.
