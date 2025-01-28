@@ -165,7 +165,7 @@ Roadmap for my interview grind
 ### Heaps
 - [x] Review the following documentation: [Heaps](/docs/heaps)
 - [ ] Review the following data structure: [Heap](/data-structures/heap)
-- [ ] Review the following algorithm: [Heapsort](/algorithms/heapsort)
+- [x] Review the following algorithm: [Heapsort](/algorithms/heapsort)
 - [ ] Review the following algorithm: [k-way Merge](/algorithms/k_way_merge)
 - [ ] Complete the following LeetCode problems:
   - [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
