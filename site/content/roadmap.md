@@ -23,8 +23,6 @@ Roadmap for my interview grind
 
 ### Strings
 - [ ] Review the following documentation: [Strings](/docs/strings)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
 - [x] Review the following algorithm: [Longest Common Subsequence (LCS)](/algorithms/longest_common_subsequence)
 - [x] Complete the following LeetCode problems:
   - [x] [Longest Common Subsequence](/leetcode/longest_common_subsequence)
