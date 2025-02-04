@@ -10,21 +10,10 @@ Roadmap for my interview grind
 
 ### Arrays
 - [ ] Review the following documentation: [Arrays](/docs/arrays)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
 - [x] Review the following algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
-- [x] Complete the following LeetCode problems:
-  - [x] [Maximum Subarray](/leetcode/maximum_subarray)
-
-#### Sliding Window
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Two Pointers
-
-##### Fast & Slow Pointers
 - [x] Review the following algorithm: [Cycle Detection](/algorithms/cycle_detection)
 - [x] Complete the following LeetCode problems:
+  - [x] [Maximum Subarray](/leetcode/maximum_subarray)
   - [x] [Linked List Cycle](/leetcode/linked_list_cycle)
 
 ### Hash Tables
