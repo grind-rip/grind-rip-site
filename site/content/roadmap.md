@@ -47,48 +47,21 @@ Roadmap for my interview grind
 
 ### Searching
 - [ ] Review the following documentation: [Searching](/docs/searching)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Binary Search
 - [x] Review the following algorithm: [Binary Search](/algorithms/binary_search)
-- [x] Complete the following LeetCode problems:
-  - [x] [Binary Search](/leetcode/binary_search)
-
-#### Quickselect
 - [x] Review the following algorithm: [Quickselect](/algorithms/quickselect)
 - [x] Complete the following LeetCode problems:
+  - [x] [Binary Search](/leetcode/binary_search)
   - [x] [Top K Frequent Elements](leetcode/top_k_frequent_elements)
 
 ### Sorting
 - [ ] Review the following documentation: [Sorting](/docs/sorting)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Bucket Sort
 - [ ] Review the following algorithm: [Bucket Sort](/algorithms/bucket_sort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Cycle Sort
 - [ ] Review the following algorithm: [Cycle Sort](/algorithms/cycle_sort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Merge Sort
+- [ ] Review the following algorithm: [Topological Sort](/algorithms/topological_sort)
 - [x] Review the following algorithm: [Merge Sort](/algorithms/merge_sort)
+- [x] Review the following algorithm: [Quicksort](/algorithms/quicksort)
 - [x] Complete the following LeetCode problems:
   - [x] [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
-
-#### Quicksort
-- [x] Review the following algorithm: [Quicksort](/algorithms/quicksort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Topological Sort
-- [ ] Review the following algorithm: [Topological Sort](/algorithms/topological_sort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
 
 ---
 
