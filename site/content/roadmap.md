@@ -164,7 +164,7 @@ Roadmap for my interview grind
 - [x] Review the following algorithm: [kth Smallest (Largest)](/algorithms/kth_smallest)
 - [x] Complete the following LeetCode problems:
   - [x] [Merge k Sorted Lists](leetcode/merge_k_sorted_lists)
-  - [x] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
+  - [x] [K Closest Points to Origin](/leetcode/k_closest_points_to_origin)
   - [x] [Top K Frequent Elements](leetcode/top_k_frequent_elements)
   - [x] [Find Median from Data Stream](leetcode/find_median_from_data_stream)
 
