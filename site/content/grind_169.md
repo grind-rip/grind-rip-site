@@ -203,8 +203,8 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Heap
 
-- [ ] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
-- [ ] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
+- [x] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
+- [x] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)

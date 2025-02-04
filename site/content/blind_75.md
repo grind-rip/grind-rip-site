@@ -130,5 +130,5 @@ companies.
 ## Heap
 
 - [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
-- [ ] [Top K Frequent Elements](../leetcode/top_k_frequent_elements)
-- [ ] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
+- [x] [Top K Frequent Elements](../leetcode/top_k_frequent_elements)
+- [x] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)

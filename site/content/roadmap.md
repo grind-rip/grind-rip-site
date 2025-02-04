@@ -57,8 +57,8 @@ Roadmap for my interview grind
 
 #### Quickselect
 - [x] Review the following algorithm: [Quickselect](/algorithms/quickselect)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
+- [x] Complete the following LeetCode problems:
+  - [x] [Top K Frequent Elements](leetcode/top_k_frequent_elements)
 
 ### Sorting
 - [ ] Review the following documentation: [Sorting](/docs/sorting)
@@ -77,8 +77,8 @@ Roadmap for my interview grind
 
 #### Merge Sort
 - [x] Review the following algorithm: [Merge Sort](/algorithms/merge_sort)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
+- [x] Complete the following LeetCode problems:
+  - [x] [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
 
 #### Quicksort
 - [x] Review the following algorithm: [Quicksort](/algorithms/quicksort)
@@ -98,7 +98,7 @@ Roadmap for my interview grind
 - [x] Review the following documentation: [Linked Lists](/docs/linked_lists)
 - [x] Complete the following LeetCode problems:
   - [x] [Linked List Cycle](/leetcode/linked_list_cycle)
-  - [x] [Middle of the Linked List](../leetcode/middle_of_the_linked_list)
+  - [x] [Middle of the Linked List](/leetcode/middle_of_the_linked_list)
   - [x] [Reverse a Linked List](/leetcode/reverse_linked_list)
   - [x] [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
   - [x] [Remove Nth Node From End Of List](/leetcode/remove_nth_node_from_end_of_list)
@@ -139,16 +139,9 @@ Roadmap for my interview grind
 
 ### Trees
 - [ ] Review the following documentation: [Trees](/docs/trees)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Breadth-first Search (BFS)
 - [x] Review the following algorithm: [Breadth-first Search (BFS)](/algorithms/breadth_first_search)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
-
-#### Depth-first Search (DFS)
 - [x] Review the following algorithm: [Depth-first Search (DFS)](/algorithms/depth_first_search)
+- [ ] Review the following algorithm: [Tree Traversal](/algorithms/tree_traversal)
 - [ ] Complete the following LeetCode problems:
   - [ ] TBD
 
@@ -164,18 +157,16 @@ Roadmap for my interview grind
 
 ### Heaps
 - [x] Review the following documentation: [Heaps](/docs/heaps)
-- [ ] Review the following data structure: [Heap](/data-structures/heap)
-- [x] Review the following algorithm: [Heapsort](/algorithms/heapsort)
-- [ ] Review the following algorithm: [k-way Merge](/algorithms/k_way_merge)
-- [ ] Complete the following LeetCode problems:
-  - [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
-  - [ ] [Top K Frequent Elements](../leetcode/top_k_frequent_elements)
-  - [ ] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
-
-#### Priority Queues
 - [ ] Review the following documentation: [Priority Queues](/docs/priority_queues)
-- [ ] Complete the following LeetCode problems:
-  - [ ] TBD
+- [x] Review the following data structure: [Heap](/data-structures/heap)
+- [x] Review the following algorithm: [Heapsort](/algorithms/heapsort)
+- [x] Review the following algorithm: [k-way Merge](/algorithms/k_way_merge)
+- [x] Review the following algorithm: [kth Smallest (Largest)](/algorithms/kth_smallest)
+- [x] Complete the following LeetCode problems:
+  - [x] [Merge k Sorted Lists](leetcode/merge_k_sorted_lists)
+  - [x] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
+  - [x] [Top K Frequent Elements](leetcode/top_k_frequent_elements)
+  - [x] [Find Median from Data Stream](leetcode/find_median_from_data_stream)
 
 ### Union-find
 - [ ] Review the following documentation: [Union-find](/docs/union_find)

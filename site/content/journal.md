@@ -462,3 +462,37 @@ Couldn't agree more.
 ## 2025-01-27
 
 * OK, let's implement a heap and heapsort.
+
+## 2025-01-28
+
+* Finished [heapsort algorithm](/algorithms/heapsort).
+
+## 2025-01-29
+
+* Finished [heap data structure](/data-structures/heap).
+
+## 2025-01-30
+
+* Added kth smallest (largest) to **Heaps** section in the roadmap.
+
+## 2025-01-31
+
+* Finished heaps. Whew, lad. Now just need to finish the LeetCode problems.
+
+## 2025-02-01
+
+* First full month of interview grinding complete. 110hr 45min. Dwamn. Gotta try to beat it in Feb., even though I lose 3 days.
+
+## 2025-02-02
+
+* Sunday, 11AM, working through 'Find Median from Data Stream'. First time I've started to feel burnt out.
+* Running out of steam. I'll have to finish these tomorrow:
+  * [K Closest Points to Origin](leetcode/k_closest_points_to_origin)
+  * [Top K Frequent Elements](leetcode/top_k_frequent_elements)
+  * [Find Median from Data Stream](leetcode/find_median_from_data_stream)
+* I'll finish up with 'Find Median from Data Stream', which is a good primer for trees, which I'll tackle next week.
+
+## 2025-02-03
+
+* Found this interesting research paper while studying heaps:
+  * [Min-Max Heaps and Generalized Priority Queues](https://people.scs.carleton.ca/~santoro/Reports/MinMaxHeap.pdf)
