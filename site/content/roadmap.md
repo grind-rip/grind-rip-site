@@ -101,9 +101,20 @@ Roadmap for my interview grind
 - [ ] Review the following documentation: [Trees](/docs/trees)
 - [x] Review the following algorithm: [Breadth-first Search (BFS)](/algorithms/breadth_first_search)
 - [x] Review the following algorithm: [Depth-first Search (DFS)](/algorithms/depth_first_search)
-- [ ] Review the following algorithm: [Tree Traversal](/algorithms/tree_traversal)
+- [x] Review the following algorithm: [Tree Traversal](/algorithms/tree_traversal)
 - [ ] Complete the following LeetCode problems:
-  - [ ] TBD
+  - [x] [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
+  - [x] [Invert Binary Tree](/leetcode/invert_binary_tree)
+  - [x] [Same Tree](/leetcode/same_tree)
+  - [x] [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
+  - [x] [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
+  - [ ] [Binary Tree Level Order Traversal](/leetcode/binary_tree_level_order_traversal)
+  - [ ] [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest_common_ancestor_of_a_binary_search_tree)
+  - [ ] [Binary Tree Right Side View](/leetcode/binary_tree_right_side_view)
+  - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
+  - [ ] [Kth Smallest Element in a BST](/leetcode/kth_smallest_element_in_a_bst)
+  - [ ] [Binary Tree Maximum Path Sum](/leetcode/binary_tree_maximum_path_sum)
+  - [ ] [Serialize and Deserialize Binary Tree](/leetcode/serialize_and_deserialize_binary_tree)
 
 ### Tries
 - [ ] Review the following documentation: [Tries](/docs/tries)

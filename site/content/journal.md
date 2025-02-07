@@ -496,3 +496,40 @@ Couldn't agree more.
 
 * Found this interesting research paper while studying heaps:
   * [Min-Max Heaps and Generalized Priority Queues](https://people.scs.carleton.ca/~santoro/Reports/MinMaxHeap.pdf)
+
+## 2025-02-04
+
+* 100% done with heaps...at least for now.
+* Put together my plan for trees:
+  * Review/update the following documentation: [Trees](/docs/trees)
+  * Review/update the following algorithm: [Breadth-first Search (BFS)](/algorithms/breadth_first_search)
+  * Review/update the following algorithm: [Depth-first Search (DFS)](/algorithms/depth_first_search)
+  * Implement the following algorithm: [Tree Traversal](/algorithms/tree_traversal)
+  * [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
+  * [Invert Binary Tree](/leetcode/invert_binary_tree)
+  * [Same Tree](/leetcode/same_tree)
+  * [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
+  * [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
+  * [Binary Tree Level Order Traversal](/leetcode/binary_tree_level_order_traversal)
+  * [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest_common_ancestor_of_a_binary_search_tree)
+  * [Binary Tree Right Side View](/leetcode/binary_tree_right_side_view)
+  * [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
+  * [Kth Smallest Element in a BST](/leetcode/kth_smallest_element_in_a_bst)
+  * [Binary Tree Maximum Path Sum](/leetcode/binary_tree_maximum_path_sum)
+  * [Serialize and Deserialize Binary Tree](/leetcode/serialize_and_deserialize_binary_tree)
+
+>Bird by bird, buddy. Just take it bird by bird.
+
+As of today, I've been studying for 6 weeks.
+
+# 2025-02-05
+
+* Working on tree traversal.
+
+# 2025-02-06
+
+>tfw all you want to do is grind, so you try to churn out some AI slop as fast as possible for your job, but it doesn't work, so you end up having to read documentation and actually learn some shit.
+
+# 2025-02-07
+
+* Got a phone interview with some [dust company](https://www.kingland.com). Beggars... Choosers... all that jazz.
