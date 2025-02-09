@@ -532,4 +532,12 @@ As of today, I've been studying for 6 weeks.
 
 # 2025-02-07
 
-* Got a phone interview with some [dust company](https://www.kingland.com). Beggars... Choosers... all that jazz.
+* Got a phone interview with some [dust company](https://www.kingland.com). Beggars... Choosers... all that jazz. Never mind, rescheduled to Monday.
+
+# 2025-02-08
+
+* Added Google interview. The flush that started it all!
+
+# 2025-02-09
+
+* Add Workiva interview. Finished [tree traversal](/algorithms/tree_traversal).
