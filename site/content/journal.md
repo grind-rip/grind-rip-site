@@ -541,3 +541,20 @@ As of today, I've been studying for 6 weeks.
 # 2025-02-09
 
 * Add Workiva interview. Finished [tree traversal](/algorithms/tree_traversal).
+
+# 2025-02-10
+
+* Phone interview with [Kingland](https://www.kingland.com). TC is ~$150k, base + bonus (LMAO). Also requires 2-3 days in office. I'm just going to go through the interview process for the reps.
+
+# 2025-02-11
+
+* Focusing on doing more LeetCode. I think I've been too theory heavy. Practice how you play!
+
+# 2025-02-12
+
+* Literally grinded all day.
+
+# 2025-02-13
+
+* 'Binary Tree Right Side View' took me 10 minutes. Am I becoming not trash? Nah, still trash, 'Construct Binary Tree from Preorder and Inorder Traversal' took me over an hour.
+* Had a call with a recruiter about an opportunity at [Seek AI](https://www.seek.ai). Also, had an Amazon recruiter reach out. Are the SWE job market Dark Ages over?
