@@ -70,7 +70,7 @@ friendly and comprehensive list.
 
 - [x] [Reverse Linked List](../leetcode/reverse_linked_list)
 - [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
+- [x] [Reorder List](../leetcode/reorder_list)
 - [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
 - [ ] [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -95,10 +95,10 @@ friendly and comprehensive list.
 - [x] [Binary Tree Right Side View](../leetcode/binary_tree_right_side_view)
 - [ ] [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
 - [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [x] [Kth Smallest Element in a BST](../leetcode/kth_smallest_element_in_a_bst)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
-- [ ] [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+- [x] [Binary Tree Maximum Path Sum](../leetcode/binary_tree_maximum_path_sum)
+- [x] [Serialize and Deserialize Binary Tree](../leetcode/serialize_and_deserialize_binary_tree)
 
 ---
 

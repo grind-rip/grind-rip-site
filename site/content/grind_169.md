@@ -109,7 +109,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 - [x] [Lowest Common Ancestor of a Binary Search Tree](../leetcode/lowest_common_ancestor_of_a_binary_search_tree)
 - [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [x] [Kth Smallest Element in a BST](../leetcode/kth_smallest_element_in_a_bst)
 - [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
@@ -121,12 +121,12 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [x] [Binary Tree Level Order Traversal](../leetcode/binary_tree_level_order_traversal)
 - [x] [Lowest Common Ancestor of a Binary Tree](../leetcode/lowest_common_ancestor_of_a_binary_tree)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+- [x] [Serialize and Deserialize Binary Tree](../leetcode/serialize_and_deserialize_binary_tree)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [x] [Binary Tree Right Side View](../leetcode/binary_tree_right_side_view)
 - [x] [Maximum Depth of Binary Tree](../leetcode/maximum_depth_of_binary_tree)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- [x] [Binary Tree Maximum Path Sum](../leetcode/binary_tree_maximum_path_sum)
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii)
 - [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 - [x] [Same Tree](../leetcode/same_tree)
@@ -170,7 +170,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [ ] [Sort List](https://leetcode.com/problems/sort-list)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list)
+- [x] [Reorder List](../leetcode/reorder_list)
 - [ ] [Rotate List](https://leetcode.com/problems/rotate-list)
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 
