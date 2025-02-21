@@ -587,3 +587,22 @@ As of today, I've been studying for 6 weeks.
 # 2025-02-20
 
 * Took PTO today. Finally finished all my open tasks on my roadmap for trees. Moving on to arrays, then strings...
+
+# 2025-02-21
+
+* I have 20 topics left. Of the 20, I've already started 5 (arrays, strings, searching, sorting, dynamic programming). The major milestones will be graphs and dynamic programming.
+* Circling back to arrays. Here is my plan:
+  * Review/update the following documentation: [Arrays](/docs/arrays)
+  * Review/update the following algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
+  * [Two Sum](/leetcode/two_sum)
+  * [Best Time to Buy and Sell Stock](/leetcode/best_time_to_buy_and_sell_stock)
+  * [Contains Duplicate](/leetcode/contains_duplicate)
+  * [Product of Array Except Self](/leetcode/product_of_array_except_self)
+  * [Maximum Subarray](/leetcode/maximum_subarray)
+  * [Two Sum II - Input Array Is Sorted](/leetcode/two_sum_ii_input_array_is_sorted)
+  * [Maximum Product Subarray](/leetcode/maximum_product_subarray)
+  * [Search in Rotated Sorted Array](/leetcode/search_in_rotated_sorted_array)
+  * [Find Minimum in Rotated Sorted Array](/leetcode/find_minimum_in_rotated_sorted_array)
+  * [3Sum](/leetcode/3sum)
+  * [Container With Most Water](/leetcode/container_with_most_water)
+* I should be able to finish all of this by next Friday. It's just arrays.

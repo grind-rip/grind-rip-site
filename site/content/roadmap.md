@@ -11,10 +11,18 @@ Roadmap for my interview grind
 ### Arrays
 - [ ] Review the following documentation: [Arrays](/docs/arrays)
 - [x] Review the following algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
-- [x] Review the following algorithm: [Cycle Detection](/algorithms/cycle_detection)
 - [x] Complete the following LeetCode problems:
-  - [x] [Maximum Subarray](/leetcode/maximum_subarray)
-  - [x] [Linked List Cycle](/leetcode/linked_list_cycle)
+  - [x] [Two Sum](../leetcode/two_sum)
+  - [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
+  - [x] [Contains Duplicate](../leetcode/contains_duplicate)
+  - [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
+  - [x] [Maximum Subarray](../leetcode/maximum_subarray)
+  - [ ] [Two Sum II - Input Array Is Sorted](../leetcode/two_sum_ii_input_array_is_sorted)
+  - [ ] [Maximum Product Subarray](../leetcode/maximum_product_subarray)
+  - [ ] [Search in Rotated Sorted Array](../leetcode/search_in_rotated_sorted_array)
+  - [ ] [Find Minimum in Rotated Sorted Array](../leetcode/find_minimum_in_rotated_sorted_array)
+  - [ ] [3Sum](../leetcode/3sum)
+  - [ ] [Container With Most Water](../leetcode/container_with_most_water)
 
 ### Hash Tables
 - [ ] Review the following documentation: [Hash Tables](/docs/hash_tables)
@@ -56,6 +64,7 @@ Roadmap for my interview grind
 
 ### Linked Lists
 - [x] Review the following documentation: [Linked Lists](/docs/linked_lists)
+- [x] Review the following algorithm: [Cycle Detection](/algorithms/cycle_detection)
 - [x] Complete the following LeetCode problems:
   - [x] [Linked List Cycle](/leetcode/linked_list_cycle)
   - [x] [Middle of the Linked List](/leetcode/middle_of_the_linked_list)
