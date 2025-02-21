@@ -558,3 +558,32 @@ As of today, I've been studying for 6 weeks.
 
 * 'Binary Tree Right Side View' took me 10 minutes. Am I becoming not trash? Nah, still trash, 'Construct Binary Tree from Preorder and Inorder Traversal' took me over an hour.
 * Had a call with a recruiter about an opportunity at [Seek AI](https://www.seek.ai). Also, had an Amazon recruiter reach out. Are the SWE job market Dark Ages over?
+
+# 2025-02-14
+
+* OK, just need to finish 'Tree Operations' and the last three LeetCode problems, then I'm done with trees.
+
+# 2025-02-15
+
+* Why am I doing this?
+
+# 2025-02-16
+
+* Once I hit around 35 hours of studying / work, I totally run out of steam.
+
+# 2025-02-17
+
+* OK, finishing up trees.
+
+# 2025-02-18
+
+* Created a login page for grind.rip... Got a little distracted...
+* Completed 'Kth Smallest Element in a BST' in about ten minutes.
+
+# 2025-02-19
+
+* Completed [Binary Tree Maximum Path Sum](/leetcode/binary_tree_maximum_path_sum) and [Serialize and Deserialize Binary Tree](/leetcode/serialize_and_deserialize_binary_tree). Both were pretty hard.
+
+# 2025-02-20
+
+* Took PTO today. Finally finished all my open tasks on my roadmap for trees. Moving on to arrays, then strings...
