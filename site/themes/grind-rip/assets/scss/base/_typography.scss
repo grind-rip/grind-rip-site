@@ -118,12 +118,31 @@ pre {
     padding: 1.5rem;
 }
 
+// iOS-specific fixes
+@supports (-webkit-touch-callout: none) {
+    code, pre {
+        font-variant-ligatures: none;
+        letter-spacing: 0;
+    }
+}
+
 // Fix horizontal overflow when  `markup.highlight.lineNos = true`
 //
 //   [markup.highlight]
 //   lineNos = true
 .highlight div {
     overflow-x: auto;
+}
+
+// Ensure consistent font rendering across different devices.
+pre, .highlight {
+    // Prevent iOS font size adjustments.
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+
+    // Set explicit font size and line height.
+    font-size: 16px !important;
+    line-height: 1.5rem !important;
 }
 
 b, strong {

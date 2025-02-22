@@ -3,4 +3,8 @@
 body {
     background-color: $bg;
     color: $fg;
+    // Improve font rendering across different browsers and operating systems.
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
