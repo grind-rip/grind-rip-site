@@ -95,11 +95,11 @@ companies.
 
 ## String
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
+- [x] [Longest Substring Without Repeating Characters](../leetcode/longest_substring_without_repeating_characters)
+- [x] [Longest Repeating Character Replacement](../leetcode/longest_repeating_character_replacement)
+- [x] [Minimum Window Substring](../leetcode/minimum_window_substring)
 - [x] [Valid Anagram](../leetcode/valid_anagram)
-- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [x] [Valid Parentheses](../leetcode/valid_parentheses)
 - [x] [Valid Palindrome](../leetcode/valid_palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)

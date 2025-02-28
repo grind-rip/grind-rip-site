@@ -24,7 +24,7 @@ friendly and comprehensive list.
 ## Two Pointers
 
 - [x] [Valid Palindrome](../leetcode/valid_palindrome)
-- [ ] [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 - [ ] [3Sum](https://leetcode.com/problems/3sum)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
@@ -34,11 +34,11 @@ friendly and comprehensive list.
 ## Sliding Window
 
 - [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
-- [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
-- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+- [x] [Longest Substring Without Repeating Characters](../leetcode/longest_substring_without_repeating_characters)
+- [x] [Longest Repeating Character Replacement](../leetcode/longest_repeating_character_replacement)
+- [x] [Permutation In String](../leetcode/permutation_in_string)
+- [x] [Minimum Window Substring](../leetcode/minimum_window_substring)
+- [x] [Sliding Window Maximum](../leetcode/sliding_window_maximum)
 
 ---
 

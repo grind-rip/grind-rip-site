@@ -14,6 +14,7 @@ Roadmap for my interview grind
 - [x] Complete the following LeetCode problems:
   - [x] [Two Sum](../leetcode/two_sum)
   - [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
+  - [x] [Minimum Size Subarray Sum](/leetcode/minimum_size_subarray_sum)
   - [x] [Contains Duplicate](../leetcode/contains_duplicate)
   - [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
   - [x] [Maximum Subarray](../leetcode/maximum_subarray)
@@ -23,6 +24,7 @@ Roadmap for my interview grind
   - [ ] [Find Minimum in Rotated Sorted Array](../leetcode/find_minimum_in_rotated_sorted_array)
   - [ ] [3Sum](../leetcode/3sum)
   - [ ] [Container With Most Water](../leetcode/container_with_most_water)
+  - [x] [Sliding Window Maximum](../leetcode/sliding_window_maximum)
 
 ### Hash Tables
 - [ ] Review the following documentation: [Hash Tables](/docs/hash_tables)
@@ -33,6 +35,11 @@ Roadmap for my interview grind
 - [ ] Review the following documentation: [Strings](/docs/strings)
 - [x] Review the following algorithm: [Longest Common Subsequence (LCS)](/algorithms/longest_common_subsequence)
 - [x] Complete the following LeetCode problems:
+  - [x] [Longest Substring Without Repeating Characters](/leetcode/longest_substring_without_repeating_characters)
+  - [x] [Longest Repeating Character Replacement](/leetcode/longest_repeating_character_replacement)
+  - [x] [Longest Substring with At Most K Distinct Characters](/leetcode/longest_substring_with_at_most_k_distinct_characters)
+  - [x] [Permutation In String](/leetcode/permutation_in_string)
+  - [x] [Minimum Window Substring](/leetcode/minimum_window_substring)
   - [x] [Longest Common Subsequence](/leetcode/longest_common_subsequence)
 
 ### Recursion
