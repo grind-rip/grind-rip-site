@@ -13,3 +13,6 @@
 [submodule "site/content/leetcode/_leetcode"]
 	path = site/content/leetcode/_leetcode
 	url = git@github.com:grind-rip/leetcode.git
+[submodule "site/content/system-design/_system-design"]
+	path = site/content/system-design/_system-design
+	url = git@github.com:grind-rip/system-design.git

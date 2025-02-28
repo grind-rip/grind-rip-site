@@ -16,7 +16,7 @@ theme = 'grind-rip'
     'docs/_docs',
     'interviews/_interviews',
     'leetcode/_leetcode',
-    'system_design/_system_design',
+    'system-design/_system-design',
   ]
   source = 'content'
   target = 'content'
@@ -88,7 +88,7 @@ weight = 20
 
 [[menus.main]]
 name = 'system_design'
-pageRef = '/system_design'
+pageRef = '/system-design'
 weight = 30
 
 [[menus.main]]
