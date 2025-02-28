@@ -16,6 +16,7 @@ theme = 'grind-rip'
     'docs/_docs',
     'interviews/_interviews',
     'leetcode/_leetcode',
+    'system_design/_system_design',
   ]
   source = 'content'
   target = 'content'
@@ -86,8 +87,8 @@ pageRef = '/data-structures'
 weight = 20
 
 [[menus.main]]
-name = 'docs'
-pageRef = '/docs'
+name = 'system_design'
+pageRef = '/system_design'
 weight = 30
 
 [[menus.main]]
@@ -96,9 +97,14 @@ pageRef = '/leetcode'
 weight = 40
 
 [[menus.main]]
+name = 'docs'
+pageRef = '/docs'
+weight = 50
+
+[[menus.main]]
 name = 'interviews'
 pageRef = '/interviews'
-weight = 50
+weight = 60
 
 [[menus.aside]]
 name = 'blind_75.md'
@@ -111,9 +117,14 @@ pageRef = '/grind_169.md'
 weight = 20
 
 [[menus.aside]]
+name = 'leetcode_75.md'
+pageRef = '/leetcode_75.md'
+weight = 30
+
+[[menus.aside]]
 name = 'neetcode_150.md'
 pageRef = '/neetcode_150.md'
-weight = 30
+weight = 40
 
 [[menus.aside]]
 name = 'journal.md'
