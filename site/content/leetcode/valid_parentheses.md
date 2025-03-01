@@ -1,5 +1,6 @@
 +++
 title = 'Valid Parentheses'
+slug = 'valid-parentheses'
 draft = false
 description =  '''
 '''

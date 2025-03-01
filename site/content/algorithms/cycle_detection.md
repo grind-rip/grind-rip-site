@@ -1,5 +1,6 @@
 +++
 title = 'Cycle Detection'
+slug = 'cycle-detection'
 draft = false
 description =  '''
 Cycle detection or cycle finding is the algorithmic problem of finding a cycle

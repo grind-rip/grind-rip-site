@@ -1,5 +1,6 @@
 +++
 title = 'Maximum Subarray'
+slug = 'maximum-subarray'
 draft = false
 description =  '''
 The maximum subarray problem is the task of finding a contiguous subarray with

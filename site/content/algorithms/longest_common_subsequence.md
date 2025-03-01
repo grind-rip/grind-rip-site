@@ -1,5 +1,6 @@
 +++
 title = 'Longest Common Subsequence (LCS)'
+slug = 'longest-common-subsequence'
 draft = false
 description =  '''
 The longest common subsequence is the longest subsequence that is common to two

@@ -1,5 +1,6 @@
 +++
 title = 'Longest Substring Without Repeating Characters'
+slug = 'longest-substring-without-repeating-characters'
 draft = false
 description =  '''
 '''

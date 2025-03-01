@@ -1,5 +1,6 @@
 +++
 title = 'Binary Tree Maximum Path Sum'
+slug = 'binary-tree-maximum-path-sum'
 draft = false
 description =  '''
 '''

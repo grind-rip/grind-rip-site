@@ -1,5 +1,6 @@
 +++
 title = 'Climbing Stairs'
+slug = 'climbing-stairs'
 draft = false
 description =  '''
 '''

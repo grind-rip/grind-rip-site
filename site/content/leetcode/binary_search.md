@@ -1,5 +1,6 @@
 +++
 title = 'Binary Search'
+slug = 'binary-search'
 draft = false
 description =  '''
 '''

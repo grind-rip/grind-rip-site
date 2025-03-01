@@ -1,5 +1,6 @@
 +++
 title = 'Breadth-first Search (BFS)'
+slug = 'breadth-first-search'
 draft = false
 description =  '''
 Breadth-first search is a graph traversal algorithm that explores all nodes at

@@ -1,5 +1,6 @@
 +++
 title = 'Depth-first Search (DFS)'
+slug = 'depth-first-search'
 draft = false
 description =  '''
 Depth-first search is a graph traversal algorithm that explores as deep as

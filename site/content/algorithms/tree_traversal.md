@@ -1,5 +1,6 @@
 +++
 title = 'Tree Traversal'
+slug = 'tree-traversal'
 draft = false
 description =  '''
 Tree traversal is the process of visiting each node in a tree exactly once.

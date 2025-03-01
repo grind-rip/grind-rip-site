@@ -1,5 +1,6 @@
 +++
 title = 'Levenshtein Distance'
+slug = 'levenshtein-distance'
 draft = false
 description =  '''
 Levenshtein distance is a string metric for measuring the difference between

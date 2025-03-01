@@ -1,5 +1,6 @@
 +++
 title = 'Subtree of Another Tree'
+slug = 'subtree-of-another-tree'
 draft = false
 description =  '''
 '''

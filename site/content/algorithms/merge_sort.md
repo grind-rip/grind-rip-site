@@ -1,5 +1,6 @@
 +++
 title = 'Merge Sort'
+slug = 'merge-sort'
 draft = false
 description =  '''
 Merge sort is the quintessential divide-and-conquer sorting algorithm. It

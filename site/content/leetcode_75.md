@@ -1,5 +1,6 @@
 +++
 title = 'leetcode_75.md'
+slug = 'leetcode-75'
 draft = false
 description =  '''
 The "LeetCode 75" is a curated list of 75 frequently asked coding interview
@@ -11,7 +12,7 @@ structures.
 
 ## Array / String
 
-- [x] [Merge Strings Alternately](../leetcode/merge_strings_alternately)
+- [x] [Merge Strings Alternately](/leetcode/merge-strings-alternately)
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)
 - [ ] [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)
 - [ ] [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)

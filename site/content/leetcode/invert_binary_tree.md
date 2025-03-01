@@ -1,5 +1,6 @@
 +++
 title = 'Invert Binary Tree'
+slug = 'invert-binary-tree'
 draft = false
 description =  '''
 '''

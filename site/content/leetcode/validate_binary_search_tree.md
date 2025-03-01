@@ -1,5 +1,6 @@
 +++
 title = 'Validate Binary Search Tree'
+slug = 'validate-binary-search-tree'
 draft = false
 description =  '''
 '''

@@ -1,5 +1,6 @@
 +++
 title = 'k-way Merge'
+slug = 'k-way-merge'
 draft = false
 description =  '''
 The k-way merge algorithm is a sequence merge algorithm that takes in k sorted

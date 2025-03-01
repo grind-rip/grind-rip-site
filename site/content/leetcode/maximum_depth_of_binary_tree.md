@@ -1,5 +1,6 @@
 +++
 title = 'Maximum Depth of Binary Tree'
+slug = 'maximum-depth-of-binary-tree'
 draft = false
 description =  '''
 '''

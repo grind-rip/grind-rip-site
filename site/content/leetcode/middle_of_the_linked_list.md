@@ -1,5 +1,6 @@
 +++
 title = 'Middle of the Linked List'
+slug = 'middle-of-the-linked-list'
 draft = false
 description =  '''
 '''

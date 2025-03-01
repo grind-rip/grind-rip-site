@@ -1,5 +1,6 @@
 +++
 title = 'Top K Frequent Elements'
+slug = 'top-k-frequent-elements'
 draft = false
 description =  '''
 '''

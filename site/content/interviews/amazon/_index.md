@@ -1,5 +1,6 @@
 +++
 title = 'Amazon'
+slug = 'amazon'
 draft = false
 description =  '''
 Solutions for the Amazon online assessment

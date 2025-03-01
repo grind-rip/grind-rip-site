@@ -1,5 +1,6 @@
 +++
 title = 'Merge Strings Alternately'
+slug = 'merge-strings-alternately'
 draft = false
 description =  '''
 '''

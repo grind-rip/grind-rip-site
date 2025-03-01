@@ -1,5 +1,6 @@
 +++
 title = 'Maximum Subarray'
+slug = 'maximum-subarray'
 draft = false
 description =  '''
 '''

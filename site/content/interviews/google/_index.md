@@ -1,5 +1,6 @@
 +++
 title = 'Google'
+slug = 'google'
 draft = false
 description =  '''
 Solutions for the Google technical interview

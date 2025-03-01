@@ -1,5 +1,6 @@
 +++
 title = 'Longest Common Subsequence'
+slug = 'longest-common-subsequence'
 draft = false
 description =  '''
 '''

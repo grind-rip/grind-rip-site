@@ -1,5 +1,6 @@
 +++
 title = 'Arrays'
+slug = 'arrays'
 draft = false
 description =  '''
 An array is a block of contiguous memory of fixed size that holds one or more

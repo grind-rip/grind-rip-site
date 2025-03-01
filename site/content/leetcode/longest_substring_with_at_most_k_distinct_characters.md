@@ -1,5 +1,6 @@
 +++
 title = 'Longest Substring with At Most K Distinct Characters'
+slug = 'longest-substring-with-at-most-k-distinct-characters'
 draft = false
 description =  '''
 '''

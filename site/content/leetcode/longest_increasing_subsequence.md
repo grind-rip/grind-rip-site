@@ -1,5 +1,6 @@
 +++
 title = 'Longest Increasing Subsequence'
+slug = 'longest-increasing-subsequence'
 draft = false
 description =  '''
 '''

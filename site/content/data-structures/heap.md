@@ -1,5 +1,6 @@
 +++
 title = 'Heap'
+slug = 'heap'
 draft = false
 description =  '''
 A heap is a binary tree in which each element has a key (or sometimes priority)

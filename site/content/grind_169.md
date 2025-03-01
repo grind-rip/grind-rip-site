@@ -1,5 +1,6 @@
 +++
 title = 'grind_169.md'
+slug = 'grind-169'
 draft = false
 description =  '''
 By the same author of the "Blind 75", the "Grind 169" is an extension of the
@@ -10,16 +11,16 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Array
 
-- [x] [Two Sum](../leetcode/two_sum)
-- [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
+- [x] [Two Sum](/leetcode/two-sum)
+- [x] [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
 - [ ] [3Sum](https://leetcode.com/problems/3sum)
-- [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
+- [x] [Product of Array Except Self](/leetcode/product-of-array-except-self)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
-- [x] [Contains Duplicate](../leetcode/contains_duplicate)
+- [x] [Contains Duplicate](/leetcode/contains-duplicate)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station)
@@ -39,16 +40,16 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## String
 
-- [x] [Valid Palindrome](../leetcode/valid_palindrome)
-- [x] [Valid Anagram](../leetcode/valid_anagram)
-- [x] [Longest Substring Without Repeating Characters](../leetcode/longest_substring_without_repeating_characters)
+- [x] [Valid Palindrome](/leetcode/valid-palindrome)
+- [x] [Valid Anagram](/leetcode/valid-anagram)
+- [x] [Longest Substring Without Repeating Characters](/leetcode/longest-substring-without-repeating-characters)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
-- [x] [Minimum Window Substring](../leetcode/minimum_window_substring)
+- [x] [Minimum Window Substring](/leetcode/minimum-window-substring)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
-- [x] [Longest Repeating Character Replacement](../leetcode/longest_repeating_character_replacement)
+- [x] [Longest Repeating Character Replacement](/leetcode/longest-repeating-character-replacement)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [ ] [Largest Number](https://leetcode.com/problems/largest-number)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
@@ -68,7 +69,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Binary Search
 
-- [x] [Binary Search](../leetcode/binary_search)
+- [x] [Binary Search](/leetcode/binary-search)
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
@@ -81,7 +82,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Graph
 
-- [x] [Flood Fill](../leetcode/flood_fill)
+- [x] [Flood Fill](/leetcode/flood-fill)
 - [ ] [01 Matrix](https://leetcode.com/problems/01-matrix)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule)
@@ -107,9 +108,9 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Binary Search Tree
 
-- [x] [Lowest Common Ancestor of a Binary Search Tree](../leetcode/lowest_common_ancestor_of_a_binary_search_tree)
-- [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
-- [x] [Kth Smallest Element in a BST](../leetcode/kth_smallest_element_in_a_bst)
+- [x] [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest-common-ancestor-of-a-binary-search-tree)
+- [x] [Validate Binary Search Tree](/leetcode/validate-binary-search-tree)
+- [x] [Kth Smallest Element in a BST](/leetcode/kth-smallest-element-in-a-bst)
 - [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
@@ -117,24 +118,24 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Binary Tree
 
-- [x] [Invert Binary Tree](../leetcode/invert_binary_tree)
+- [x] [Invert Binary Tree](/leetcode/invert-binary-tree)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
-- [x] [Binary Tree Level Order Traversal](../leetcode/binary_tree_level_order_traversal)
-- [x] [Lowest Common Ancestor of a Binary Tree](../leetcode/lowest_common_ancestor_of_a_binary_tree)
-- [x] [Serialize and Deserialize Binary Tree](../leetcode/serialize_and_deserialize_binary_tree)
+- [x] [Binary Tree Level Order Traversal](/leetcode/binary-tree-level-order-traversal)
+- [x] [Lowest Common Ancestor of a Binary Tree](/leetcode/lowest-common-ancestor-of-a-binary-tree)
+- [x] [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
-- [x] [Binary Tree Right Side View](../leetcode/binary_tree_right_side_view)
-- [x] [Maximum Depth of Binary Tree](../leetcode/maximum_depth_of_binary_tree)
-- [x] [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-- [x] [Binary Tree Maximum Path Sum](../leetcode/binary_tree_maximum_path_sum)
+- [x] [Binary Tree Right Side View](/leetcode/binary-tree-right-side-view)
+- [x] [Maximum Depth of Binary Tree](/leetcode/maximum-depth-of-binary-tree)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct-binary-tree-from-preorder-and-inorder-traversal)
+- [x] [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum)
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii)
 - [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
-- [x] [Same Tree](../leetcode/same_tree)
+- [x] [Same Tree](/leetcode/same-tree)
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 - [ ] [Path Sum III](https://leetcode.com/problems/path-sum-iii)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
-- [x] [Subtree of Another Tree](../leetcode/subtree_of_another_tree)
+- [x] [Subtree of Another Tree](/leetcode/subtree-of-another-tree)
 
 ---
 
@@ -159,18 +160,18 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Linked List
 
-- [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
-- [x] [Linked List Cycle](../leetcode/linked_list_cycle)
-- [x] [Reverse Linked List](../leetcode/reverse_linked_list)
-- [x] [Middle of the Linked List](../leetcode/middle_of_the_linked_list)
+- [x] [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
+- [x] [Linked List Cycle](/leetcode/linked-list-cycle)
+- [x] [Reverse Linked List](/leetcode/reverse-linked-list)
+- [x] [Middle of the Linked List](/leetcode/middle-of-the-linked-list)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
-- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
+- [x] [Remove Nth Node From End of List](/leetcode/remove-nth-node-from-end-of-list)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
 - [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [ ] [Sort List](https://leetcode.com/problems/sort-list)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
-- [x] [Reorder List](../leetcode/reorder_list)
+- [x] [Reorder List](/leetcode/reorder-list)
 - [ ] [Rotate List](https://leetcode.com/problems/rotate-list)
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 
@@ -178,7 +179,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Stack
 
-- [x] [Valid Parentheses](../leetcode/valid_parentheses)
+- [x] [Valid Parentheses](/leetcode/valid-parentheses)
 - [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack)
@@ -203,8 +204,8 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Heap
 
-- [x] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
-- [x] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
+- [x] [K Closest Points to Origin](/leetcode/k-closest-points-to-origin)
+- [x] [Find Median from Data Stream](/leetcode/find-median-from-data-stream)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
@@ -225,14 +226,14 @@ providing a broader and more comprehensive set of coding interview questions.
 
 ## Dynamic Programming
 
-- [x] [Maximum Subarray](../leetcode/maximum_subarray)
-- [x] [Coin Change](../leetcode/coin_change)
-- [x] [Climbing Stairs](../leetcode/climbing_stairs)
+- [x] [Maximum Subarray](/leetcode/maximum-subarray)
+- [x] [Coin Change](/leetcode/coin-change)
+- [x] [Climbing Stairs](/leetcode/climbing-stairs)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
-- [x] [House Robber](../leetcode/house_robber)
+- [x] [House Robber](/leetcode/house-robber)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
-- [x] [Longest Increasing Subsequence](../leetcode/longest_increasing_subsequence)
+- [x] [Longest Increasing Subsequence](/leetcode/longest-increasing-subsequence)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game)
 - [ ] [Maximal Square](https://leetcode.com/problems/maximal-square)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)

@@ -1,5 +1,6 @@
 +++
 title = 'Minimum Window Substring'
+slug = 'minimum-window-substring'
 draft = false
 description =  '''
 '''

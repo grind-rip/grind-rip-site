@@ -1,5 +1,6 @@
 +++
 title = 'journal.md'
+slug = 'journal'
 draft = false
 description =  '''
 Journal for my interview grind
@@ -34,11 +35,11 @@ Since the L4 (or Software Engineer III) interview is focused mainly on one's abi
 
 ## 2024-01-14
 
-* Completed [Two Sum](/leetcode/two_sum)
+* Completed [Two Sum](/leetcode/two-sum)
 
 Warmed up with an easy one. It took longer than expected, but, as I've learned, it takes a little bit of time to get the LeetCode *flow* back.
 
-* Completed [Best Time to Buy and Sell Stock](/leetcode/best_time_to_buy_and_sell_stock)
+* Completed [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
 
 Another easy one (sliding window). Again, it took longer than expected and I should keep in mind that a sliding window can also look backwards. I was able to quickly find the O(n^2) solution, however, this will not cut it for Google. If ever a solution runs in O(n^2) time, you will probably need to rethink the problem and find a better solution.
 
@@ -63,8 +64,8 @@ After lunch I plan to read through some documentation on the Tech Interview Hand
 ## 2024-01-18
 
 * Wrapped up dynamic programming and completed the following problems:
-  * [Climbing Stairs](/leetcode/climbing_stairs)
-  * [Coin Change](/leetcode/coin_change)
+  * [Climbing Stairs](/leetcode/climbing-stairs)
+  * [Coin Change](/leetcode/coin-change)
 
 It looks like Google is moving me forward with the L5 interview. RIP
 
@@ -105,8 +106,8 @@ Additionally, I was asked to schedule an initial virtual technical screen. This 
 I plan to spend the full day studying heaps and priority queues.
 
 * Completed the following easy problems for fun:
-  * [Valid Parentheses](/leetcode/valid_parentheses)
-  * [Valid Palindrome](/leetcode/valid_palindrome)
+  * [Valid Parentheses](/leetcode/valid-parentheses)
+  * [Valid Palindrome](/leetcode/valid-palindrome)
 
 Interview has been scheduled:
 * Date: Monday, January 29th, 2024
@@ -115,7 +116,7 @@ Interview has been scheduled:
 ## 2024-01-20
 
 * Starting off with an easy warm-up problem:
-  * [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
+  * [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
 
 *(Fuck, took me 1.5 hours)*
 
@@ -143,21 +144,21 @@ His advice:
 Kind of a nice touch. It also cleared up some questions I had regarding the phone screen. It was probably automated.
 
 I really need to finish up the following questions:
-* [Longest Common Subsequence](/leetcode/longest_common_subsequence)
-* [Longest Increasing Subsequence](/leetcode/longest_increasing_subsequence)
-* [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
+* [Longest Common Subsequence](/leetcode/longest-common-subsequence)
+* [Longest Increasing Subsequence](/leetcode/longest-increasing-subsequence)
+* [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
 
 ## 2024-01-23
 
 * Completed two (relatively) easy ones:
-  * [Contains Duplicate](/leetcode/contains_duplicate)
-  * [Product of Array Except Self](/leetcode/product_of_array_except_self)
+  * [Contains Duplicate](/leetcode/contains-duplicate)
+  * [Product of Array Except Self](/leetcode/product-of-array-except-self)
 
 ## 2024-01-24
 
 * Completed two (relatively) easy ones:
-  * [Reverse a Linked List](/leetcode/reverse_linked_list)
-  * [Linked List Cycle](/leetcode/linked_list_cycle)
+  * [Reverse a Linked List](/leetcode/reverse-linked-list)
+  * [Linked List Cycle](/leetcode/linked-list-cycle)
 
 ## 2024-01-25
 
@@ -166,8 +167,8 @@ I submitted my application two weeks ago. So far, I've completed 13 LeetCode pro
 ## 2024-01-26
 
 * Completed two (relatively) easy ones:
-  * [Valid Anagram](/leetcode/valid_anagram)
-  * [Group Anagrams](/leetcode/group_anagrams)
+  * [Valid Anagram](/leetcode/valid-anagram)
+  * [Group Anagrams](/leetcode/group-anagrams)
 
 ## 2024-01-27
 
@@ -220,15 +221,15 @@ Back to the grind...
 
 ## 2024-12-25
 
-* Completed [Binary Search](/leetcode/binary_search). Rusty, but the muscle memory is still there. Added the algorithm as well: [Binary Search](/algorithms/binary_search).
+* Completed [Binary Search](/leetcode/binary-search). Rusty, but the muscle memory is still there. Added the algorithm as well: [Binary Search](/algorithms/binary-search).
 
 ## 2024-12-26
 
-* Implemented [Breadth-first Search (BFS)](/algorithms/breadth_first_search)
+* Implemented [Breadth-first Search (BFS)](/algorithms/breadth-first-search)
 
 ## 2024-12-27
 
-* Implemented [Depth-first Search (DFS)](/algorithms/depth_first_search) and completed [Flood Fill](/leetcode/flood_fill). It was surprisingly easy.
+* Implemented [Depth-first Search (DFS)](/algorithms/depth-first-search) and completed [Flood Fill](/leetcode/flood-fill). It was surprisingly easy.
 
 ## 2024-12-28
 
@@ -236,11 +237,11 @@ Back to the grind...
 
 ## 2024-12-29
 
-* Damn. I had a lot of unfinished LeetCode problems. What's interesting though, is even after 10 months of zero studying, I'm still much better than when I started back in January 2024. For example, I have a much better intuition around dynamic programming. Case in point, completed [House Robber](/leetcode/house_robber).
+* Damn. I had a lot of unfinished LeetCode problems. What's interesting though, is even after 10 months of zero studying, I'm still much better than when I started back in January 2024. For example, I have a much better intuition around dynamic programming. Case in point, completed [House Robber](/leetcode/house-robber).
 
 ## 2024-12-30
 
-* Completed [String Compression](/leetcode/string_compression)
+* Completed [String Compression](/leetcode/string-compression)
 
 ## 2024-12-31
 
@@ -253,9 +254,9 @@ Back to the grind...
 ## 2025-01-02
 
 * Completed the following:
-  * [Product of Array Except Self](/leetcode/product_of_array_except_self)
-  * LeetCode: [Maximum Subarray](/leetcode/maximum_subarray)
-  * Algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
+  * [Product of Array Except Self](/leetcode/product-of-array-except-self)
+  * LeetCode: [Maximum Subarray](/leetcode/maximum-subarray)
+  * Algorithm: [Maximum Subarray](/algorithms/maximum-subarray)
 
 After studying specific topics I reinforce what I've learned by applying the knowledge to related LeetCode problems.
 
@@ -265,7 +266,7 @@ After studying specific topics I reinforce what I've learned by applying the kno
 
 ## 2025-01-04
 
-* Grindin' on the weekends again. Started [Reorganize String](/leetcode/reorganize_string), then realized I needed to refresh my knowledge of [heaps](/docs/heaps)...
+* Grindin' on the weekends again. Started [Reorganize String](/leetcode/reorganize-string), then realized I needed to refresh my knowledge of [heaps](/docs/heaps)...
 
 ## 2025-01-05
 
@@ -274,10 +275,10 @@ After studying specific topics I reinforce what I've learned by applying the kno
 ## 2025-01-06
 
 * Cleaning up some old LeetCode solutions:
-  * [Two Sum](/leetcode/two_sum)
-  * [Valid Anagram](/leetcode/valid_anagram)
-  * [Valid Palindrome](/leetcode/valid_palindrome)
-  * [Valid Parentheses](/leetcode/valid_parentheses)
+  * [Two Sum](/leetcode/two-sum)
+  * [Valid Anagram](/leetcode/valid-anagram)
+  * [Valid Palindrome](/leetcode/valid-palindrome)
+  * [Valid Parentheses](/leetcode/valid-parentheses)
 
 Updated my resume to make it more ✨*ATS-friendly*✨
 
@@ -297,10 +298,10 @@ Shit's stale.
 ## 2025-01-09
 
 * Studying [trees](/docs/trees.md):
-  * [Flood Fill](/leetcode/flood_fill)
-  * [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
-  * [Same Tree](/leetcode/same_tree)
-  * [Invert Binary Tree](/leetcode/invert_binary_tree) ([Bruh, it's not even hard](https://x.com/mxcl/status/608682016205344768))
+  * [Flood Fill](/leetcode/flood-fill)
+  * [Maximum Depth of Binary Tree](/leetcode/maximum-depth-of-binary-tree)
+  * [Same Tree](/leetcode/same-tree)
+  * [Invert Binary Tree](/leetcode/invert-binary-tree) ([Bruh, it's not even hard](https://x.com/mxcl/status/608682016205344768))
 
 Trees are easy.
 
@@ -309,8 +310,8 @@ Applied to [Upstart](https://www.upstart.com) (Senior Software Engineer, Deliver
 ## 2025-01-10
 
 * Even more trees:
-  * [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
-  * [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
+  * [Validate Binary Search Tree](/leetcode/validate-binary-search-tree)
+  * [Subtree of Another Tree](/leetcode/subtree-of-another-tree)
 
 Damn. **Subtree of Another Tree** was a LeetCode easy and it took me over an hour to get the solution. Confidence at an all-time low.
 
@@ -343,22 +344,22 @@ Literally zero return emails apart from the flush from PushPress. What the fuck 
   * [Raft](https://teamraft.com) (Senior Software Engineer)
   * [SentinelOne](https://www.sentinelone.com) (Senior AI Platform Engineer - NLP | LLM)
 
-Completed [Linked List Cycle](/leetcode/linked_list_cycle)
+Completed [Linked List Cycle](/leetcode/linked-list-cycle)
 
 ## 2025-01-14
 
 * Applied to the following companies:
   * [Monarch Money](https://www.monarchmoney.com) (Software Engineer, Infrastructure & Platform (Senior / Staff))
 
-Got sucked down the rabbit hole of edit distance after looking into Longest Common Subsequence. Implemented [Levenshtein Distance](/algorithms/levenshtein_distance).
+Got sucked down the rabbit hole of edit distance after looking into Longest Common Subsequence. Implemented [Levenshtein Distance](/algorithms/levenshtein-distance).
 
 ## 2025-01-15
 
 Applied to [Ramp](https://ramp.com) (Staff Software Engineer | Backend). Heard about them on a podcast. Why the fuck not?
 
 Finished the algorithm and LeetCode problem for Longest Common Subsequence:
-* LeetCode: [Longest Common Subsequence](/leetcode/longest_common_subsequence)
-* Algorithm: [Longest Common Subsequence](/algorithms/longest_common_subsequence)
+* LeetCode: [Longest Common Subsequence](/leetcode/longest-common-subsequence)
+* Algorithm: [Longest Common Subsequence](/algorithms/longest-common-subsequence)
 
 ## 2025-01-16
 
@@ -377,13 +378,13 @@ This is my workday:
 
 ## 2025-01-18
 
-* Coded up a quick implementation of [merge sort](/algorithms/merge_sort), since it was included in the Amazon OA and I'd been meaning to add it.
+* Coded up a quick implementation of [merge sort](/algorithms/merge-sort), since it was included in the Amazon OA and I'd been meaning to add it.
 * Added my [solutions for the Architect.io technical interview](/interviews/architect-io) in 2022.
 
 ## 2025-01-19
 
 * Grinded for 28hr 15min this week. Worked my job for 7hr 15min (including meetings). I spent *literally* 1hr 15min doing actual, ticketed work. Who cares about how much work I actually do, I'm good vibez guy now 😎.
-* Fuck. Spent over 4 hours on a recursive and memoization solution to [Longest Increasing Subsequence](/leetcode/longest_increasing_subsequence). Was it worth it? I don't know. The 'tism took over and I couldn't stop working on it until I found a solution.
+* Fuck. Spent over 4 hours on a recursive and memoization solution to [Longest Increasing Subsequence](/leetcode/longest-increasing-subsequence). Was it worth it? I don't know. The 'tism took over and I couldn't stop working on it until I found a solution.
 
 ## 2025-01-20
 
@@ -395,23 +396,23 @@ This is my workday:
 ## 2025-01-21
 
 * Created a YouTube account: https://www.youtube.com/@grind-rip
-* Focusing on [linked lists](/docs/linked_lists).
+* Focusing on [linked lists](/docs/linked-lists).
 * Taking a different approach this week. Instead of covering the topic for a day, I am going to spend the entire week mastering the topic and completing all the recommended LeetCode problems:
-  * [Reverse a Linked List](/leetcode/reverse_linked_list)
-  * [Linked List Cycle](/leetcode/linked_list_cycle)
-  * [Merge Two Sorted Lists](/leetcode/merge_two_sorted_lists)
-  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
-  * [Remove Nth Node From End Of List](/leetcode/remove_nth_node_from_end_of_list)
-  * [Reorder List](/leetcode/reorder_list)
+  * [Reverse a Linked List](/leetcode/reverse-linked-list)
+  * [Linked List Cycle](/leetcode/linked-list-cycle)
+  * [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
+  * [Merge k Sorted Lists](/leetcode/merge-k-sorted-lists)
+  * [Remove Nth Node From End Of List](/leetcode/remove-nth-node-from-end-of-list)
+  * [Reorder List](/leetcode/reorder-list)
 
 ## 2025-01-22
 
 * Created a Discord server: https://discord.gg/KgdQCYpZ
 * Organized [roadmap.md](/roadmap)
 * Working on the following:
-  * [Remove Nth Node From End Of List](/leetcode/remove_nth_node_from_end_of_list)
-  * [Reorder List](/leetcode/reorder_list)
-  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
+  * [Remove Nth Node From End Of List](/leetcode/remove-nth-node-from-end-of-list)
+  * [Reorder List](/leetcode/reorder-list)
+  * [Merge k Sorted Lists](/leetcode/merge-k-sorted-lists)
 
 I decided to do these from easiest to hardest.
 
@@ -432,8 +433,8 @@ I was going through my notes and found this:
 
 Couldn't agree more.
 
-* Added the following, since it is a prerequisite for [Reorder List](/leetcode/reorder_list):
-  * [Middle of the Linked List](/leetcode/middle_of_the_linked_list)
+* Added the following, since it is a prerequisite for [Reorder List](/leetcode/reorder-list):
+  * [Middle of the Linked List](/leetcode/middle-of-the-linked-list)
 
 ## 2025-01-24
 
@@ -446,13 +447,13 @@ Couldn't agree more.
 * Created a new repository [grind-rip/data-structures](https://github.com/grind-rip/data-structures)
 * Put together my plan for heaps:
   * Review/update documentation: [Heaps](/docs/heaps).
-  * Review/update documentation: [Priority Queues](/docs/priority_queues).
+  * Review/update documentation: [Priority Queues](/docs/priority-queues).
   * Implement heap data structure: [Heap](/data-structures/heap).
   * Implement heapsort algorithm: [Heapsort](/algorithms/heapsort).
-  * Implement k-way merge algorithm: [k-way Merge](/algorithms/k_way_merge).
-  * [Merge k Sorted Lists](/leetcode/merge_k_sorted_lists)
-  * [Top K Frequent Elements](/leetcode/top_k_frequent_elements)
-  * [Find Median from Data Stream](/leetcode/find_median_from_data_stream)
+  * Implement k-way merge algorithm: [k-way Merge](/algorithms/k-way-merge).
+  * [Merge k Sorted Lists](/leetcode/merge-k-sorted-lists)
+  * [Top K Frequent Elements](/leetcode/top-k-frequent-elements)
+  * [Find Median from Data Stream](/leetcode/find-median-from-data-stream)
 * I have 23 topics to master. I've completed linked lists, so that makes 22. If I devote a week to each topic, that is 22 weeks, or slightly over 5 months. The key will be not giving up and not getting distracted. By July, I should be a master of data structures and algorithms.
 
 ## 2025-01-26
@@ -487,9 +488,9 @@ Couldn't agree more.
 
 * Sunday, 11AM, working through 'Find Median from Data Stream'. First time I've started to feel burnt out.
 * Running out of steam. I'll have to finish these tomorrow:
-  * [K Closest Points to Origin](leetcode/k_closest_points_to_origin)
-  * [Top K Frequent Elements](leetcode/top_k_frequent_elements)
-  * [Find Median from Data Stream](leetcode/find_median_from_data_stream)
+  * [K Closest Points to Origin](leetcode/k-closest-points-to-origin)
+  * [Top K Frequent Elements](leetcode/top-k-frequent-elements)
+  * [Find Median from Data Stream](leetcode/find-median-from-data-stream)
 * I'll finish up with 'Find Median from Data Stream', which is a good primer for trees, which I'll tackle next week.
 
 ## 2025-02-03
@@ -502,21 +503,21 @@ Couldn't agree more.
 * 100% done with heaps...at least for now.
 * Put together my plan for trees:
   * Review/update the following documentation: [Trees](/docs/trees)
-  * Review/update the following algorithm: [Breadth-first Search (BFS)](/algorithms/breadth_first_search)
-  * Review/update the following algorithm: [Depth-first Search (DFS)](/algorithms/depth_first_search)
-  * Implement the following algorithm: [Tree Traversal](/algorithms/tree_traversal)
-  * [Maximum Depth of Binary Tree](/leetcode/maximum_depth_of_binary_tree)
-  * [Invert Binary Tree](/leetcode/invert_binary_tree)
-  * [Same Tree](/leetcode/same_tree)
-  * [Subtree of Another Tree](/leetcode/subtree_of_another_tree)
-  * [Validate Binary Search Tree](/leetcode/validate_binary_search_tree)
-  * [Binary Tree Level Order Traversal](/leetcode/binary_tree_level_order_traversal)
-  * [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest_common_ancestor_of_a_binary_search_tree)
-  * [Binary Tree Right Side View](/leetcode/binary_tree_right_side_view)
-  * [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-  * [Kth Smallest Element in a BST](/leetcode/kth_smallest_element_in_a_bst)
-  * [Binary Tree Maximum Path Sum](/leetcode/binary_tree_maximum_path_sum)
-  * [Serialize and Deserialize Binary Tree](/leetcode/serialize_and_deserialize_binary_tree)
+  * Review/update the following algorithm: [Breadth-first Search (BFS)](/algorithms/breadth-first-search)
+  * Review/update the following algorithm: [Depth-first Search (DFS)](/algorithms/depth-first-search)
+  * Implement the following algorithm: [Tree Traversal](/algorithms/tree-traversal)
+  * [Maximum Depth of Binary Tree](/leetcode/maximum-depth-of-binary-tree)
+  * [Invert Binary Tree](/leetcode/invert-binary-tree)
+  * [Same Tree](/leetcode/same-tree)
+  * [Subtree of Another Tree](/leetcode/subtree-of-another-tree)
+  * [Validate Binary Search Tree](/leetcode/validate-binary-search-tree)
+  * [Binary Tree Level Order Traversal](/leetcode/binary-tree-level-order-traversal)
+  * [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest-common-ancestor-of-a-binary-search-tree)
+  * [Binary Tree Right Side View](/leetcode/binary-tree-right-side-view)
+  * [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct-binary-tree-from-preorder-and-inorder-traversal)
+  * [Kth Smallest Element in a BST](/leetcode/kth-smallest-element-in-a-bst)
+  * [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum)
+  * [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree)
 
 >Bird by bird, buddy. Just take it bird by bird.
 
@@ -540,7 +541,7 @@ As of today, I've been studying for 6 weeks.
 
 # 2025-02-09
 
-* Add Workiva interview. Finished [tree traversal](/algorithms/tree_traversal).
+* Add Workiva interview. Finished [tree traversal](/algorithms/tree-traversal).
 
 # 2025-02-10
 
@@ -582,7 +583,7 @@ As of today, I've been studying for 6 weeks.
 
 # 2025-02-19
 
-* Completed [Binary Tree Maximum Path Sum](/leetcode/binary_tree_maximum_path_sum) and [Serialize and Deserialize Binary Tree](/leetcode/serialize_and_deserialize_binary_tree). Both were pretty hard.
+* Completed [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum) and [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree). Both were pretty hard.
 
 # 2025-02-20
 
@@ -593,16 +594,16 @@ As of today, I've been studying for 6 weeks.
 * I have 20 topics left. Of the 20, I've already started 5 (arrays, strings, searching, sorting, dynamic programming). The major milestones will be graphs and dynamic programming.
 * Circling back to arrays. Here is my plan:
   * Review/update the following documentation: [Arrays](/docs/arrays)
-  * Review/update the following algorithm: [Maximum Subarray](/algorithms/maximum_subarray)
-  * [Two Sum](/leetcode/two_sum)
-  * [Best Time to Buy and Sell Stock](/leetcode/best_time_to_buy_and_sell_stock)
-  * [Contains Duplicate](/leetcode/contains_duplicate)
-  * [Product of Array Except Self](/leetcode/product_of_array_except_self)
-  * [Maximum Subarray](/leetcode/maximum_subarray)
-  * [Two Sum II - Input Array Is Sorted](/leetcode/two_sum_ii_input_array_is_sorted)
-  * [Maximum Product Subarray](/leetcode/maximum_product_subarray)
-  * [Search in Rotated Sorted Array](/leetcode/search_in_rotated_sorted_array)
-  * [Find Minimum in Rotated Sorted Array](/leetcode/find_minimum_in_rotated_sorted_array)
+  * Review/update the following algorithm: [Maximum Subarray](/algorithms/maximum-subarray)
+  * [Two Sum](/leetcode/two-sum)
+  * [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
+  * [Contains Duplicate](/leetcode/contains-duplicate)
+  * [Product of Array Except Self](/leetcode/product-of-array-except-self)
+  * [Maximum Subarray](/leetcode/maximum-subarray)
+  * [Two Sum II - Input Array Is Sorted](/leetcode/two-sum-ii-input-array-is-sorted)
+  * [Maximum Product Subarray](/leetcode/maximum-product-subarray)
+  * [Search in Rotated Sorted Array](/leetcode/search-in-rotated-sorted-array)
+  * [Find Minimum in Rotated Sorted Array](/leetcode/find-minimum-in-rotated-sorted-array)
   * [3Sum](/leetcode/3sum)
-  * [Container With Most Water](/leetcode/container_with_most_water)
+  * [Container With Most Water](/leetcode/container-with-most-water)
 * I should be able to finish all of this by next Friday. It's just arrays.

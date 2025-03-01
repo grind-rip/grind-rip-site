@@ -1,5 +1,6 @@
 +++
 title = 'blind_75.md'
+slug = 'blind-75'
 draft = false
 description =  '''
 The "Blind 75" is a curated list of the 75 most essential coding interview
@@ -11,11 +12,11 @@ companies.
 
 ## Array
 
-- [x] [Two Sum](../leetcode/two_sum)
-- [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
-- [x] [Contains Duplicate](../leetcode/contains_duplicate)
-- [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
-- [x] [Maximum Subarray](../leetcode/maximum_subarray)
+- [x] [Two Sum](/leetcode/two-sum)
+- [x] [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
+- [x] [Contains Duplicate](/leetcode/contains-duplicate)
+- [x] [Product of Array Except Self](/leetcode/product-of-array-except-self)
+- [x] [Maximum Subarray](/leetcode/maximum-subarray)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
@@ -36,13 +37,13 @@ companies.
 
 ## Dynamic Programming
 
-- [x] [Climbing Stairs](../leetcode/climbing_stairs)
-- [x] [Coin Change](../leetcode/coin_change)
-- [x] [Longest Increasing Subsequence](../leetcode/longest_increasing_subsequence)
-- [x] [Longest Common Subsequence](../leetcode/longest_common_subsequence)
+- [x] [Climbing Stairs](/leetcode/climbing-stairs)
+- [x] [Coin Change](/leetcode/coin-change)
+- [x] [Longest Increasing Subsequence](/leetcode/longest-increasing-subsequence)
+- [x] [Longest Common Subsequence](/leetcode/longest-common-subsequence)
 - [ ] [Word Break](https://leetcode.com/problems/word-break)
 - [ ] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
-- [x] [House Robber](../leetcode/house_robber)
+- [x] [House Robber](/leetcode/house-robber)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
@@ -75,12 +76,12 @@ companies.
 
 ## Linked List
 
-- [x] [Reverse Linked List](../leetcode/reverse_linked_list)
-- [x] [Linked List Cycle](../leetcode/linked_list_cycle)
-- [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
-- [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
-- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
-- [x] [Reorder List](../leetcode/reorder_list)
+- [x] [Reverse Linked List](/leetcode/reverse-linked-list)
+- [x] [Linked List Cycle](/leetcode/linked-list-cycle)
+- [x] [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
+- [x] [Merge k Sorted Lists](/leetcode/merge-k-sorted-lists)
+- [x] [Remove Nth Node From End of List](/leetcode/remove-nth-node-from-end-of-list)
+- [x] [Reorder List](/leetcode/reorder-list)
 
 ---
 
@@ -95,13 +96,13 @@ companies.
 
 ## String
 
-- [x] [Longest Substring Without Repeating Characters](../leetcode/longest_substring_without_repeating_characters)
-- [x] [Longest Repeating Character Replacement](../leetcode/longest_repeating_character_replacement)
-- [x] [Minimum Window Substring](../leetcode/minimum_window_substring)
-- [x] [Valid Anagram](../leetcode/valid_anagram)
+- [x] [Longest Substring Without Repeating Characters](/leetcode/longest-substring-without-repeating-characters)
+- [x] [Longest Repeating Character Replacement](/leetcode/longest-repeating-character-replacement)
+- [x] [Minimum Window Substring](/leetcode/minimum-window-substring)
+- [x] [Valid Anagram](/leetcode/valid-anagram)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
-- [x] [Valid Parentheses](../leetcode/valid_parentheses)
-- [x] [Valid Palindrome](../leetcode/valid_palindrome)
+- [x] [Valid Parentheses](/leetcode/valid-parentheses)
+- [x] [Valid Palindrome](/leetcode/valid-palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
@@ -110,17 +111,17 @@ companies.
 
 ## Tree
 
-- [x] [Maximum Depth of Binary Tree](../leetcode/maximum_depth_of_binary_tree)
-- [x] [Same Tree](../leetcode/same_tree)
-- [x] [Invert Binary Tree](../leetcode/invert_binary_tree)
-- [x] [Binary Tree Maximum Path Sum](../leetcode/binary_tree_maximum_path_sum)
-- [x] [Binary Tree Level Order Traversal](../leetcode/binary_tree_level_order_traversal)
-- [x] [Serialize and Deserialize Binary Tree](../leetcode/serialize_and_deserialize_binary_tree)
-- [x] [Subtree of Another Tree](../leetcode/subtree_of_another_tree)
-- [x] [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-- [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
-- [x] [Kth Smallest Element in a BST](../leetcode/kth_smallest_element_in_a_bst)
-- [x] [Lowest Common Ancestor of a Binary Search Tree](../leetcode/lowest_common_ancestor_of_a_binary_search_tree)
+- [x] [Maximum Depth of Binary Tree](/leetcode/maximum-depth-of-binary-tree)
+- [x] [Same Tree](/leetcode/same-tree)
+- [x] [Invert Binary Tree](/leetcode/invert-binary-tree)
+- [x] [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum)
+- [x] [Binary Tree Level Order Traversal](/leetcode/binary-tree-level-order-traversal)
+- [x] [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree)
+- [x] [Subtree of Another Tree](/leetcode/subtree-of-another-tree)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct-binary-tree-from-preorder-and-inorder-traversal)
+- [x] [Validate Binary Search Tree](/leetcode/validate-binary-search-tree)
+- [x] [Kth Smallest Element in a BST](/leetcode/kth-smallest-element-in-a-bst)
+- [x] [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest-common-ancestor-of-a-binary-search-tree)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii)
@@ -129,6 +130,6 @@ companies.
 
 ## Heap
 
-- [x] [Merge k Sorted Lists](../leetcode/merge_k_sorted_lists)
-- [x] [Top K Frequent Elements](../leetcode/top_k_frequent_elements)
-- [x] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
+- [x] [Merge k Sorted Lists](/leetcode/merge-k-sorted-lists)
+- [x] [Top K Frequent Elements](/leetcode/top-k-frequent-elements)
+- [x] [Find Median from Data Stream](/leetcode/find-median-from-data-stream)

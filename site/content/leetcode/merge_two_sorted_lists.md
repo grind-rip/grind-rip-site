@@ -1,5 +1,6 @@
 +++
 title = 'Merge Two Sorted Lists'
+slug = 'merge-two-sorted-lists'
 draft = false
 description =  '''
 '''

@@ -1,5 +1,6 @@
 +++
 title = 'Two Sum'
+slug = 'two-sum'
 draft = false
 description =  '''
 '''

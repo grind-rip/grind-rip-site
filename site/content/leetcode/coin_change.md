@@ -1,5 +1,6 @@
 +++
 title = 'Coin Change'
+slug = 'coin-change'
 draft = false
 description =  '''
 '''

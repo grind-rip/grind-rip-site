@@ -1,5 +1,6 @@
 +++
 title = 'Demo'
+slug = 'demo'
 draft = false
 description =  '''
 Solution for the demo of the Amazon online assessment

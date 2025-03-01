@@ -1,5 +1,6 @@
 +++
 title = 'Reverse Linked List'
+slug = 'reverse-linked-list'
 draft = false
 description =  '''
 '''

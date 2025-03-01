@@ -1,5 +1,6 @@
 +++
 title = 'Product of Array Except Self'
+slug = 'product-of-array-except-self'
 draft = false
 description =  '''
 '''

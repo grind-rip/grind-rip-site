@@ -1,5 +1,6 @@
 +++
 title = 'Valid Palindrome'
+slug = 'valid-palindrome'
 draft = false
 description =  '''
 '''

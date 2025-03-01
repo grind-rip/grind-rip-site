@@ -1,5 +1,6 @@
 +++
 title = 'Trees'
+slug = 'trees'
 draft = false
 description =  '''
 A tree is a hierarchical data structure that consists of nodes connected by

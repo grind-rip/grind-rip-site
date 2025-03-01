@@ -1,5 +1,6 @@
 +++
 title = 'Reorder List'
+slug = 'reorder-list'
 draft = false
 description =  '''
 '''

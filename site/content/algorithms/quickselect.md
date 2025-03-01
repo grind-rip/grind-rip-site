@@ -1,5 +1,6 @@
 +++
 title = 'Quickselect'
+slug = 'quickselect'
 draft = false
 description =  '''
 Quickselect (also known as Hoare's selection algorithm) is a selection

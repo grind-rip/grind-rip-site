@@ -1,5 +1,6 @@
 +++
 title = 'Longest Increasing Subsequence (LIS)'
+slug = 'longest-increasing-subsequence'
 draft = false
 description =  '''
 The longest increasing subsequence is the longest sequence of numbers from an

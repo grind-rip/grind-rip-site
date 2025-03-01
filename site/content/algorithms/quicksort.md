@@ -1,5 +1,6 @@
 +++
 title = 'Quicksort'
+slug = 'quicksort'
 draft = false
 description =  '''
 Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot'

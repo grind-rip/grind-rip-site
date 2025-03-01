@@ -1,5 +1,6 @@
 +++
 title = 'Find Median from Data Stream'
+slug = 'find-median-from-data-stream'
 draft = false
 description =  '''
 '''

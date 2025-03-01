@@ -1,5 +1,6 @@
 +++
 title = 'Binary Search'
+slug = 'binary-search'
 draft = false
 description =  '''
 Binary search is an efficient algorithm for finding a target value in a sorted

@@ -1,5 +1,6 @@
 +++
 title = 'Same Tree'
+slug = 'same-tree'
 draft = false
 description =  '''
 '''

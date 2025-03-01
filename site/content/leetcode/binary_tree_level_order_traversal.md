@@ -1,5 +1,6 @@
 +++
 title = 'Binary Tree Level Order Traversal'
+slug = 'binary-tree-level-order-traversal'
 draft = false
 description =  '''
 '''

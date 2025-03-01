@@ -1,3 +1,4 @@
 +++
 title = 'algorithms'
+slug = 'algorithms'
 +++

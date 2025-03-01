@@ -1,3 +1,4 @@
 +++
 title = 'leetcode'
+slug = 'leetcode'
 +++

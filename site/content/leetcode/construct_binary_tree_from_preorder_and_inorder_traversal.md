@@ -1,5 +1,6 @@
 +++
 title = 'Construct Binary Tree from Preorder and Inorder Traversal'
+slug = 'construct-binary-tree-from-preorder-and-inorder-traversal'
 draft = false
 description =  '''
 '''

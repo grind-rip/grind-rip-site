@@ -1,5 +1,6 @@
 +++
 title = 'Valid Anagram'
+slug = 'valid-anagram'
 draft = false
 description =  '''
 '''

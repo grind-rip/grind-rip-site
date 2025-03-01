@@ -1,5 +1,6 @@
 +++
 title = 'Longest Repeating Character Replacement'
+slug = 'longest-repeating-character-replacement'
 draft = false
 description =  '''
 '''

@@ -1,5 +1,6 @@
 +++
 title = 'Permutation in String'
+slug = 'permutation-in-string'
 draft = false
 description =  '''
 '''

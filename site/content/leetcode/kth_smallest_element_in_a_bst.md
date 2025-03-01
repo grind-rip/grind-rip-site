@@ -1,5 +1,6 @@
 +++
 title = 'Kth Smallest Element in a BST'
+slug = 'kth-smallest-element-in-a-bst'
 draft = false
 description =  '''
 '''

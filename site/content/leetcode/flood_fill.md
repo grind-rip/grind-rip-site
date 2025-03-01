@@ -1,5 +1,6 @@
 +++
 title = 'Flood Fill'
+slug = 'flood-fill'
 draft = false
 description =  '''
 '''

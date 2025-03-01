@@ -1,5 +1,6 @@
 +++
 title = 'String Compression'
+slug = 'string-compression'
 draft = false
 description =  '''
 '''

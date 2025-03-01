@@ -1,5 +1,6 @@
 +++
 title = 'Tree Operations'
+slug = 'tree-operations'
 draft = false
 description =  '''
 Common tree operations involve searching, inserting, and deleting nodes in the

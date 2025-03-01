@@ -1,5 +1,6 @@
 +++
 title = 'Sliding Window Maximum'
+slug = 'sliding-window-maximum'
 draft = false
 description =  '''
 '''

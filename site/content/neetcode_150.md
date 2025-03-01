@@ -1,5 +1,6 @@
 +++
-title = 'neetcode_150.md'
+title = 'neetcode-150.md'
+slug = 'neetcode-150'
 draft = false
 description =  '''
 The Neetcode 150 is the "Blind 75" plus 75 more problems. It's a more beginner
@@ -9,12 +10,12 @@ friendly and comprehensive list.
 
 ## Arrays & Hashing
 
-- [x] [Contains Duplicate](../leetcode/contains_duplicate)
-- [x] [Valid Anagram](../leetcode/valid_anagram)
-- [x] [Two Sum](../leetcode/two_sum)
+- [x] [Contains Duplicate](/leetcode/contains-duplicate)
+- [x] [Valid Anagram](/leetcode/valid-anagram)
+- [x] [Two Sum](/leetcode/two-sum)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
-- [x] [Product of Array Except Self](../leetcode/product_of_array_except_self)
+- [x] [Product of Array Except Self](/leetcode/product-of-array-except-self)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
@@ -23,7 +24,7 @@ friendly and comprehensive list.
 
 ## Two Pointers
 
-- [x] [Valid Palindrome](../leetcode/valid_palindrome)
+- [x] [Valid Palindrome](/leetcode/valid-palindrome)
 - [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 - [ ] [3Sum](https://leetcode.com/problems/3sum)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
@@ -33,18 +34,18 @@ friendly and comprehensive list.
 
 ## Sliding Window
 
-- [x] [Best Time to Buy and Sell Stock](../leetcode/best_time_to_buy_and_sell_stock)
-- [x] [Longest Substring Without Repeating Characters](../leetcode/longest_substring_without_repeating_characters)
-- [x] [Longest Repeating Character Replacement](../leetcode/longest_repeating_character_replacement)
-- [x] [Permutation In String](../leetcode/permutation_in_string)
-- [x] [Minimum Window Substring](../leetcode/minimum_window_substring)
-- [x] [Sliding Window Maximum](../leetcode/sliding_window_maximum)
+- [x] [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
+- [x] [Longest Substring Without Repeating Characters](/leetcode/longest-substring-without-repeating-characters)
+- [x] [Longest Repeating Character Replacement](/leetcode/longest-repeating-character-replacement)
+- [x] [Permutation In String](/leetcode/permutation-in-string)
+- [x] [Minimum Window Substring](/leetcode/minimum-window-substring)
+- [x] [Sliding Window Maximum](/leetcode/sliding-window-maximum)
 
 ---
 
 ## Stack
 
-- [x] [Valid Parentheses](../leetcode/valid_parentheses)
+- [x] [Valid Parentheses](/leetcode/valid-parentheses)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
@@ -56,7 +57,7 @@ friendly and comprehensive list.
 
 ## Binary Search
 
-- [x] [Binary Search](../leetcode/binary_search)
+- [x] [Binary Search](/leetcode/binary-search)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 - [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 - [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
@@ -68,13 +69,13 @@ friendly and comprehensive list.
 
 ## Linked List
 
-- [x] [Reverse Linked List](../leetcode/reverse_linked_list)
-- [x] [Merge Two Sorted Lists](../leetcode/merge_two_sorted_lists)
-- [x] [Reorder List](../leetcode/reorder_list)
-- [x] [Remove Nth Node From End of List](../leetcode/remove_nth_node_from_end_of_list)
+- [x] [Reverse Linked List](/leetcode/reverse-linked-list)
+- [x] [Merge Two Sorted Lists](/leetcode/merge-two-sorted-lists)
+- [x] [Reorder List](/leetcode/reorder-list)
+- [x] [Remove Nth Node From End of List](/leetcode/remove-nth-node-from-end-of-list)
 - [ ] [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
-- [x] [Linked List Cycle](../leetcode/linked_list_cycle)
+- [x] [Linked List Cycle](/leetcode/linked-list-cycle)
 - [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
@@ -84,21 +85,21 @@ friendly and comprehensive list.
 
 ## Trees
 
-- [x] [Invert Binary Tree](../leetcode/invert_binary_tree)
-- [x] [Maximum Depth of Binary Tree](../leetcode/maximum_depth_of_binary_tree)
+- [x] [Invert Binary Tree](/leetcode/invert-binary-tree)
+- [x] [Maximum Depth of Binary Tree](/leetcode/maximum-depth-of-binary-tree)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
-- [x] [Same Tree](../leetcode/same_tree)
-- [x] [Subtree of Another Tree](../leetcode/subtree_of_another_tree)
-- [x] [Lowest Common Ancestor of a Binary Search Tree](../leetcode/lowest_common_ancestor_of_a_binary_search_tree)
-- [x] [Binary Tree Level Order Traversal](../leetcode/binary_tree_level_order_traversal)
-- [x] [Binary Tree Right Side View](../leetcode/binary_tree_right_side_view)
+- [x] [Same Tree](/leetcode/same-tree)
+- [x] [Subtree of Another Tree](/leetcode/subtree-of-another-tree)
+- [x] [Lowest Common Ancestor of a Binary Search Tree](/leetcode/lowest-common-ancestor-of-a-binary-search-tree)
+- [x] [Binary Tree Level Order Traversal](/leetcode/binary-tree-level-order-traversal)
+- [x] [Binary Tree Right Side View](/leetcode/binary-tree-right-side-view)
 - [ ] [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
-- [x] [Validate Binary Search Tree](../leetcode/validate_binary_search_tree)
-- [x] [Kth Smallest Element in a BST](../leetcode/kth_smallest_element_in_a_bst)
-- [x] [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/construct_binary_tree_from_preorder_and_inorder_traversal)
-- [x] [Binary Tree Maximum Path Sum](../leetcode/binary_tree_maximum_path_sum)
-- [x] [Serialize and Deserialize Binary Tree](../leetcode/serialize_and_deserialize_binary_tree)
+- [x] [Validate Binary Search Tree](/leetcode/validate-binary-search-tree)
+- [x] [Kth Smallest Element in a BST](/leetcode/kth-smallest-element-in-a-bst)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](/leetcode/construct-binary-tree-from-preorder-and-inorder-traversal)
+- [x] [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum)
+- [x] [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree)
 
 ---
 
@@ -114,11 +115,11 @@ friendly and comprehensive list.
 
 - [ ] [Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 - [ ] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
-- [x] [K Closest Points to Origin](../leetcode/k_closest_points_to_origin)
+- [x] [K Closest Points to Origin](/leetcode/k-closest-points-to-origin)
 - [ ] [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 - [ ] [Design Twitter](https://leetcode.com/problems/design-twitter)
-- [x] [Find Median from Data Stream](../leetcode/find_median_from_data_stream)
+- [x] [Find Median from Data Stream](/leetcode/find-median-from-data-stream)
 
 ---
 
@@ -167,17 +168,17 @@ friendly and comprehensive list.
 
 ## 1-D Dynamic Programming
 
-- [x] [Climbing Stairs](../leetcode/climbing_stairs)
+- [x] [Climbing Stairs](/leetcode/climbing-stairs)
 - [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
-- [x] [House Robber](../leetcode/house_robber)
+- [x] [House Robber](/leetcode/house-robber)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways)
-- [x] [Coin Change](../leetcode/coin_change)
+- [x] [Coin Change](/leetcode/coin-change)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - [ ] [Word Break](https://leetcode.com/problems/word-break)
-- [x] [Longest Increasing Subsequence](../leetcode/longest_increasing_subsequence)
+- [x] [Longest Increasing Subsequence](/leetcode/longest-increasing-subsequence)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 
 ---
@@ -185,7 +186,7 @@ friendly and comprehensive list.
 ## 2-D Dynamic Programming
 
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
-- [x] [Longest Common Subsequence](../leetcode/longest_common_subsequence)
+- [x] [Longest Common Subsequence](/leetcode/longest-common-subsequence)
 - [ ] [Best Time to Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
 - [ ] [Coin Change II](https://leetcode.com/problems/coin-change-ii)
 - [ ] [Target Sum](https://leetcode.com/problems/target-sum)
@@ -200,7 +201,7 @@ friendly and comprehensive list.
 
 ## Greedy
 
-- [x] [Maximum Subarray](../leetcode/maximum_subarray)
+- [x] [Maximum Subarray](/leetcode/maximum-subarray)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game)
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station)

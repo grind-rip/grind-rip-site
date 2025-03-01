@@ -1,5 +1,6 @@
 +++
 title = 'kth Smallest (Largest)'
+slug = 'kth-smallest'
 draft = false
 description =  '''
 The kth smallest (or largest) problem can be efficiently solved using a

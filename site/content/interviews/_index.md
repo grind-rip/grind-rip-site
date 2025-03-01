@@ -1,3 +1,4 @@
 +++
 title = 'interviews'
+slug = 'interviews'
 +++

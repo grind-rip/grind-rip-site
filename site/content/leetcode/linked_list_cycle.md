@@ -1,5 +1,6 @@
 +++
 title = 'Linked List Cycle'
+slug = 'linked-list-cycle'
 draft = false
 description =  '''
 '''

@@ -1,5 +1,6 @@
 +++
 title = 'Heapsort'
+slug = 'heapsort'
 draft = false
 description =  '''
 Heapsort is a sorting algorithm that first reorganizes an input array into a

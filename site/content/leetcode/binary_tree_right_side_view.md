@@ -1,5 +1,6 @@
 +++
 title = 'Binary Tree Right Side View'
+slug = 'binary-tree-right-side-view'
 draft = false
 description =  '''
 '''

@@ -1,5 +1,6 @@
 +++
 title = 'House Robber'
+slug = 'house-robber'
 draft = false
 description =  '''
 '''

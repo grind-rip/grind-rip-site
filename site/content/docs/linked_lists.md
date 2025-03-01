@@ -1,5 +1,6 @@
 +++
 title = 'Linked Lists'
+slug = 'linked-lists'
 draft = false
 description =  '''
 A linked list is a data structure where elements (often called nodes) are

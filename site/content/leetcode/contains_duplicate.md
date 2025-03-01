@@ -1,5 +1,6 @@
 +++
 title = 'Contains Duplicate'
+slug = 'contains-duplicate'
 draft = false
 description =  '''
 '''
