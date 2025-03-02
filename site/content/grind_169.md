@@ -19,7 +19,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
+- [x] [Sort Colors](/leetcode/sort-colors)
 - [x] [Contains Duplicate](/leetcode/contains-duplicate)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
