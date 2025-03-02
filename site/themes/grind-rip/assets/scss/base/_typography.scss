@@ -44,6 +44,10 @@ p {
     margin: 0 0 1.5rem 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 a:link, a:visited {
     color: $dark-cyan;
 }
