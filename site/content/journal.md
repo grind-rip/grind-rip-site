@@ -523,73 +523,73 @@ Couldn't agree more.
 
 As of today, I've been studying for 6 weeks.
 
-# 2025-02-05
+## 2025-02-05
 
 * Working on tree traversal.
 
-# 2025-02-06
+## 2025-02-06
 
 >tfw all you want to do is grind, so you try to churn out some AI slop as fast as possible for your job, but it doesn't work, so you end up having to read documentation and actually learn some shit.
 
-# 2025-02-07
+## 2025-02-07
 
 * Got a phone interview with some [dust company](https://www.kingland.com). Beggars... Choosers... all that jazz. Never mind, rescheduled to Monday.
 
-# 2025-02-08
+## 2025-02-08
 
 * Added Google interview. The flush that started it all!
 
-# 2025-02-09
+## 2025-02-09
 
 * Add Workiva interview. Finished [tree traversal](/algorithms/tree-traversal).
 
-# 2025-02-10
+## 2025-02-10
 
 * Phone interview with [Kingland](https://www.kingland.com). TC is ~$150k, base + bonus (LMAO). Also requires 2-3 days in office. I'm just going to go through the interview process for the reps.
 
-# 2025-02-11
+## 2025-02-11
 
 * Focusing on doing more LeetCode. I think I've been too theory heavy. Practice how you play!
 
-# 2025-02-12
+## 2025-02-12
 
 * Literally grinded all day.
 
-# 2025-02-13
+## 2025-02-13
 
 * 'Binary Tree Right Side View' took me 10 minutes. Am I becoming not trash? Nah, still trash, 'Construct Binary Tree from Preorder and Inorder Traversal' took me over an hour.
 * Had a call with a recruiter about an opportunity at [Seek AI](https://www.seek.ai). Also, had an Amazon recruiter reach out. Are the SWE job market Dark Ages over?
 
-# 2025-02-14
+## 2025-02-14
 
 * OK, just need to finish 'Tree Operations' and the last three LeetCode problems, then I'm done with trees.
 
-# 2025-02-15
+## 2025-02-15
 
 * Why am I doing this?
 
-# 2025-02-16
+## 2025-02-16
 
 * Once I hit around 35 hours of studying / work, I totally run out of steam.
 
-# 2025-02-17
+## 2025-02-17
 
 * OK, finishing up trees.
 
-# 2025-02-18
+## 2025-02-18
 
 * Created a login page for grind.rip... Got a little distracted...
 * Completed 'Kth Smallest Element in a BST' in about ten minutes.
 
-# 2025-02-19
+## 2025-02-19
 
 * Completed [Binary Tree Maximum Path Sum](/leetcode/binary-tree-maximum-path-sum) and [Serialize and Deserialize Binary Tree](/leetcode/serialize-and-deserialize-binary-tree). Both were pretty hard.
 
-# 2025-02-20
+## 2025-02-20
 
 * Took PTO today. Finally finished all my open tasks on my roadmap for trees. Moving on to arrays, then strings...
 
-# 2025-02-21
+## 2025-02-21
 
 * I have 20 topics left. Of the 20, I've already started 5 (arrays, strings, searching, sorting, dynamic programming). The major milestones will be graphs and dynamic programming.
 * Circling back to arrays. Here is my plan:
@@ -608,47 +608,47 @@ As of today, I've been studying for 6 weeks.
   * [Container With Most Water](/leetcode/container-with-most-water)
 * I should be able to finish all of this by next Friday. It's just arrays.
 
-# 2025-02-22
+## 2025-02-22
 
 * Studying every weekend is kinda a drag.
 
-# 2025-02-23
+## 2025-02-23
 
 * Around 35 hours of dedicated, focused work per week is about where I tap out.
 
-# 2025-02-24
+## 2025-02-24
 
 * Ripping through sliding window.
 
-# 2025-02-25
+## 2025-02-25
 
 * SSDD
 
-# 2025-02-26
+## 2025-02-26
 
 * I honestly work maybe 1-1.5 hours per day. Absolutely nuts.
 
-# 2025-02-27
+## 2025-02-27
 
 * More of the same.
 
-# 2025-02-28
+## 2025-02-28
 
 * "Sorry, babe, I can't celebrate your birthday–I have to *Merge Strings Alternately*..."
 
-# 2025-03-01
+## 2025-03-01
 
 * February stats: 91 hours of studying.
 
-# 2025-03-02
+## 2025-03-02
 
 * Into the rabbit hole: Palindromic Substrings -> Manacher's Algorithm. Why am I doing this? Is it even worth it?
 
-# 2025-03-03
+## 2025-03-03
 
 >"Can I have an extra [obscure coding problem]?" [I] asked Mr. [LeetCode]. "It's my birthday." To everyone's surprise, Mr. [LeetCode] gave it to him.
 
-# 2025-03-04
+## 2025-03-04
 
 >'Cause sometimes you just feel tired
 >Feel weak, and when you feel weak
@@ -661,11 +661,11 @@ As of today, I've been studying for 6 weeks.
 
 * Ayyy. A recruiter reached out from [Assured](https://www.assured.com). Scheduled a call for Friday, March 7th @ 10:00.
 
-# 2025-03-05
+## 2025-03-05
 
 * [Upstart](https://www.upstart.com) got back to me. Absolutely no interest in joining this company, but I need interview reps.
 
-# 2025-03-06
+## 2025-03-06
 
 * A recruiter reached out from [Stytch](https://stytch.com). Set up a call for Monday, March 10th @ 11:00.
 * Applied to American Express (Senior Engineer - Cloud APIs & Orchestration).
