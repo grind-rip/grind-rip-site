@@ -642,7 +642,7 @@ As of today, I've been studying for 6 weeks.
 
 ## 2025-03-02
 
-* Into the rabbit hole: Palindromic Substrings -> Manacher's Algorithm. Why am I doing this? Is it even worth it?
+* Down the rabbit hole: Palindromic Substrings -> Manacher's Algorithm. Why am I doing this? Is it even worth it?
 
 ## 2025-03-03
 
