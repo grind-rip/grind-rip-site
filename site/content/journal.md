@@ -482,7 +482,7 @@ Couldn't agree more.
 
 ## 2025-02-01
 
-* First full month of interview grinding complete. 110hr 45min. Dwamn. Gotta try to beat it in Feb., even though I lose 3 days.
+* First full month of interview grinding complete. 107hr 15min. Dwamn. Gotta try to beat it in Feb., even though I lose 3 days.
 
 ## 2025-02-02
 
@@ -607,3 +607,65 @@ As of today, I've been studying for 6 weeks.
   * [3Sum](/leetcode/3sum)
   * [Container With Most Water](/leetcode/container-with-most-water)
 * I should be able to finish all of this by next Friday. It's just arrays.
+
+# 2025-02-22
+
+* Studying every weekend is kinda a drag.
+
+# 2025-02-23
+
+* Around 35 hours of dedicated, focused work per week is about where I tap out.
+
+# 2025-02-24
+
+* Ripping through sliding window.
+
+# 2025-02-25
+
+* SSDD
+
+# 2025-02-26
+
+* I honestly work maybe 1-1.5 hours per day. Absolutely nuts.
+
+# 2025-02-27
+
+* More of the same.
+
+# 2025-02-28
+
+* "Sorry, babe, I can't celebrate your birthday–I have to *Merge Strings Alternately*..."
+
+# 2025-03-01
+
+* February stats: 91 hours of studying.
+
+# 2025-03-02
+
+* Into the rabbit hole: Palindromic Substrings -> Manacher's Algorithm. Why am I doing this? Is it even worth it?
+
+# 2025-03-03
+
+>"Can I have an extra [obscure coding problem]?" [I] asked Mr. [LeetCode]. "It's my birthday." To everyone's surprise, Mr. [LeetCode] gave it to him.
+
+# 2025-03-04
+
+>'Cause sometimes you just feel tired
+>Feel weak, and when you feel weak
+>You feel like you wanna just give up
+>But you gotta search within you
+>Try to find that inner strength and just pull that shit out of you
+>And get that motivation to not give up
+>And not be a quitter
+>No matter how bad you wanna just fall flat on your face and collapse
+
+* Ayyy. A recruiter reached out from [Assured](https://www.assured.com). Scheduled a call for Friday, March 7th @ 10:00.
+
+# 2025-03-05
+
+* [Upstart](https://www.upstart.com) got back to me. Absolutely no interest in joining this company, but I need interview reps.
+
+# 2025-03-06
+
+* A recruiter reached out from [Stytch](https://stytch.com). Set up a call for Monday, March 10th @ 11:00.
+* Applied to American Express (Senior Engineer - Cloud APIs & Orchestration).
