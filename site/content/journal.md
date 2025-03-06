@@ -650,14 +650,16 @@ As of today, I've been studying for 6 weeks.
 
 ## 2025-03-04
 
->'Cause sometimes you just feel tired
->Feel weak, and when you feel weak
->You feel like you wanna just give up
->But you gotta search within you
->Try to find that inner strength and just pull that shit out of you
->And get that motivation to not give up
->And not be a quitter
->No matter how bad you wanna just fall flat on your face and collapse
+```
+'Cause sometimes you just feel tired
+Feel weak, and when you feel weak
+You feel like you wanna just give up
+But you gotta search within you
+Try to find that inner strength and just pull that shit out of you
+And get that motivation to not give up
+And not be a quitter
+No matter how bad you wanna just fall flat on your face and collapse
+```
 
 * Ayyy. A recruiter reached out from [Assured](https://www.assured.com). Scheduled a call for Friday, March 7th @ 10:00.
 
