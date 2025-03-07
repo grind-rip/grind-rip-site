@@ -671,3 +671,31 @@ No matter how bad you wanna just fall flat on your face and collapse
 
 * A recruiter reached out from [Stytch](https://stytch.com). Set up a call for Monday, March 10th @ 11:00.
 * Applied to American Express (Senior Engineer - Cloud APIs & Orchestration).
+
+## 2025-03-07
+
+* Phone interview with Assured (@ 10:00) and Upstart (@ 13:15) today.
+* Wow. I really need to tighten up my elevator pitch–just started rambling.
+* This is why you have to practice interviewing. I've been focusing 100% on the technical portion and just fumbled a phone screen with a recruiter.
+
+```
+I am a Senior Software Engineer on the Platform Operations team, where I lead a
+team of 5 engineers that is responsible for the software development lifecycle
+at Workiva.
+
+I build software that allows engineering teams to deploy code to production
+safely and reliably 1000s of times per day.
+
+Some of the projects I've led recently are a distributed caching and storage
+system, Workiva's first AI platform, that allows teams to deploy LLM-based
+solutions to production.
+
+I am currently leading a project to enable advanced deployments at Workiva for
+canary deployments, blue-green deployments, and fast rollbacks.
+```
+
+* Interview with Upstart was better, though I need to write down all my STAR examples.
+* My wife, [Megan Kraus](https://www.linkedin.com/in/megan-sill-kraus), listened in. Her feedback:
+  * Don't say "stuff like that" at the end of every sentence.
+  * Don't be self-deprecating. There was a point in the interview where I said "frontend isn't my strong suit...". Just don't even say that.
+  * Ask thoughtful questions that demonstrate your knowledge and interest in the company.
