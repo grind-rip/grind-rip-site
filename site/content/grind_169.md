@@ -46,7 +46,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 - [x] [Minimum Window Substring](/leetcode/minimum-window-substring)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+- [x] [Longest Palindromic Substring](/leetcode/longest-palindromic-substring)
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [x] [Longest Repeating Character Replacement](/leetcode/longest-repeating-character-replacement)
@@ -152,7 +152,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Permutations](https://leetcode.com/problems/permutations)
 - [ ] [Subsets](https://leetcode.com/problems/subsets)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-- [ ] [Next Permutation](https://leetcode.com/problems/next-permutation)
+- [x] [Next Permutation](/leetcode/next-permutation)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens)
 

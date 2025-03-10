@@ -699,3 +699,21 @@ canary deployments, blue-green deployments, and fast rollbacks.
   * Don't say "stuff like that" at the end of every sentence.
   * Don't be self-deprecating. There was a point in the interview where I said "frontend isn't my strong suit...". Just don't even say that.
   * Ask thoughtful questions that demonstrate your knowledge and interest in the company.
+
+## 2025-03-08
+
+* Completed the following:
+  * [Longest Palindromic Substring](/leetcode/longest-palindromic-substring)
+  * [Palindromic Substrings](/leetcode/palindromic-substrings)
+* On second thought, maybe Upstart could be a good option. I guess we'll find out.
+* Applied to [Datadog](https://www.datadoghq.com) (Software Engineer - Distributed Storage). Seems like a ghost req...
+
+## 2025-03-09
+
+* Completed the following:
+  * [Next Permutation](/leetcode/next-permutation)
+
+## 2025-03-10
+
+* Flushed from Datadog. Suspicion confirmed that that req was a honey pot.
+* Hiring manager interviews scheduled with Assured (3/12 @ 13:00) and Stytch (3/17 @ 16:00).

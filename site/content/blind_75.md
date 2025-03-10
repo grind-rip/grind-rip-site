@@ -103,8 +103,8 @@ companies.
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [x] [Valid Parentheses](/leetcode/valid-parentheses)
 - [x] [Valid Palindrome](/leetcode/valid-palindrome)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
+- [x] [Longest Palindromic Substring](/leetcode/longest-palindromic-substring)
+- [x] [Palindromic Substrings](/leetcode/palindromic-substrings)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
 
 ---
