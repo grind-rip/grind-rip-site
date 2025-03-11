@@ -717,3 +717,7 @@ canary deployments, blue-green deployments, and fast rollbacks.
 
 * Flushed from Datadog. Suspicion confirmed that that req was a honey pot.
 * Hiring manager interviews scheduled with Assured (3/12 @ 13:00) and Stytch (3/17 @ 16:00).
+
+## 2025-03-11
+
+* Moving forward with Upstart.
