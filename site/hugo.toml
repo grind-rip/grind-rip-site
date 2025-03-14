@@ -59,7 +59,7 @@ theme = 'grind-rip'
   [[params.socials]]
   icon = 'fa-brands fa-x-twitter'
   name = 'X'
-  url = 'https://twitter.com/grind_rip'
+  url = 'https://x.com/grind_rip'
 
   [[params.socials]]
   icon = 'fa-brands fa-youtube'
