@@ -190,5 +190,5 @@ structures.
 
 ## Monotonic Stack
 
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+- [x] [Daily Temperatures](/leetcode/daily-temperatures)
 - [ ] [Online Stock Span](https://leetcode.com/problems/online-stock-span)

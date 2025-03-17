@@ -186,7 +186,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator)
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+- [x] [Daily Temperatures](/leetcode/daily-temperatures)
 - [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack)
 - [ ] [Decode String](https://leetcode.com/problems/decode-string)
