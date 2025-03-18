@@ -126,10 +126,10 @@ name = 'neetcode_150.md'
 pageRef = '/neetcode_150.md'
 weight = 40
 
-[[menus.aside]]
-name = 'journal.md'
-pageRef = '/journal.md'
-weight = 50
+# [[menus.aside]]
+# name = 'journal.md'
+# pageRef = '/journal.md'
+# weight = 50
 
 [[menus.aside]]
 name = 'roadmap.md'
