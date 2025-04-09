@@ -13,16 +13,16 @@ providing a broader and more comprehensive set of coding interview questions.
 
 - [x] [Two Sum](/leetcode/two-sum)
 - [x] [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
+- [ ] [Insert Interval](/leetcode/insert-interval)
 - [ ] [3Sum](https://leetcode.com/problems/3sum)
 - [x] [Product of Array Except Self](/leetcode/product-of-array-except-self)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+- [x] [Merge Intervals](/leetcode/merge-intervals)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 - [x] [Sort Colors](/leetcode/sort-colors)
 - [x] [Contains Duplicate](/leetcode/contains-duplicate)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
-- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
+- [ ] [Meeting Rooms](/leetcode/meeting-rooms)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array)
@@ -30,11 +30,11 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes)
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+- [ ] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 - [ ] [3Sum Closest](https://leetcode.com/problems/3sum-closest)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
+- [ ] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
 
 ---
 

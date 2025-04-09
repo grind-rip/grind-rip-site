@@ -66,11 +66,11 @@ companies.
 
 ## Interval
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
-- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+- [ ] [Insert Interval](/leetcode/insert-interval)
+- [x] [Merge Intervals](/leetcode/merge-intervals)
+- [ ] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
+- [ ] [Meeting Rooms](/leetcode/meeting-rooms)
+- [ ] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
 
 ---
 
