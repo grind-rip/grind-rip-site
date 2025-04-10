@@ -66,7 +66,7 @@ companies.
 
 ## Interval
 
-- [ ] [Insert Interval](/leetcode/insert-interval)
+- [x] [Insert Interval](/leetcode/insert-interval)
 - [x] [Merge Intervals](/leetcode/merge-intervals)
 - [ ] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
 - [ ] [Meeting Rooms](/leetcode/meeting-rooms)

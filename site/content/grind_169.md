@@ -13,7 +13,7 @@ providing a broader and more comprehensive set of coding interview questions.
 
 - [x] [Two Sum](/leetcode/two-sum)
 - [x] [Best Time to Buy and Sell Stock](/leetcode/best-time-to-buy-and-sell-stock)
-- [ ] [Insert Interval](/leetcode/insert-interval)
+- [x] [Insert Interval](/leetcode/insert-interval)
 - [ ] [3Sum](https://leetcode.com/problems/3sum)
 - [x] [Product of Array Except Self](/leetcode/product-of-array-except-self)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
