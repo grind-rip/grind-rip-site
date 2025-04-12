@@ -34,7 +34,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 - [ ] [3Sum Closest](https://leetcode.com/problems/3sum-closest)
-- [ ] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
+- [x] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
 
 ---
 

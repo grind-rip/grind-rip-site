@@ -183,7 +183,7 @@ structures.
 
 ## Intervals
 
-- [ ] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
+- [x] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 
 ---
