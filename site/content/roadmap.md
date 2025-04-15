@@ -111,7 +111,7 @@ Roadmap for my interview grind
   - [x] [Merge Intervals](/leetcode/merge-intervals)
   - [x] [Insert Interval](/leetcode/insert-interval)
   - [x] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
-  - [ ] [Meeting Rooms](/leetcode/meeting-rooms)
+  - [x] [Meeting Rooms](/leetcode/meeting-rooms)
   - [ ] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
 
 ---

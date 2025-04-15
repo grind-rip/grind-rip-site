@@ -22,7 +22,7 @@ providing a broader and more comprehensive set of coding interview questions.
 - [x] [Sort Colors](/leetcode/sort-colors)
 - [x] [Contains Duplicate](/leetcode/contains-duplicate)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
-- [ ] [Meeting Rooms](/leetcode/meeting-rooms)
+- [x] [Meeting Rooms](/leetcode/meeting-rooms)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array)
