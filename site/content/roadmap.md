@@ -107,12 +107,12 @@ Roadmap for my interview grind
 
 ### Intervals
 - [x] Review the following documentation: [Intervals](/docs/intervals)
-- [ ] Complete the following LeetCode problems:
+- [x] Complete the following LeetCode problems:
   - [x] [Merge Intervals](/leetcode/merge-intervals)
   - [x] [Insert Interval](/leetcode/insert-interval)
   - [x] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
   - [x] [Meeting Rooms](/leetcode/meeting-rooms)
-  - [ ] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
+  - [x] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
 
 ---
 

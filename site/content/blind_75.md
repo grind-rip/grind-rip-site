@@ -70,7 +70,7 @@ companies.
 - [x] [Merge Intervals](/leetcode/merge-intervals)
 - [x] [Non-overlapping Intervals](/leetcode/non-overlapping-intervals)
 - [x] [Meeting Rooms](/leetcode/meeting-rooms)
-- [ ] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
+- [x] [Meeting Rooms II](/leetcode/meeting-rooms-ii)
 
 ---
 
